@@ -21693,6 +21693,7 @@
   </spawn>
   <spawn centerx="32332" centery="32214" centerz="7" radius="8">
     <npc name="Towncryer" x="0" y="4" z="7" spawntime="29"/>
+    <npc name="Seu Tapita" x="7" y="8" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32474" centery="32214" centerz="7" radius="1">
     <monster name="Poison spider" x="1" y="0" z="7" spawntime="60"/>

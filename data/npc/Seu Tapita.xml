@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Seu Tapita" script="data/npc/scripts/Seu Tapita.lua" walkinterval="1500" speed="100" walkradius="3" floorchange="0">
+	<health max="100" now="100"/>
+	<look type="128" head="0" body="120" legs="49" feet="19" addons="1" mount="0"/>
+	<parameters>
+		<!--MESSAGES-->
+		<parameter key="message_greet" value="Vai toma no cu, |PLAYERNAME|."/>
+		<parameter key="message_farewell" value="Vai se fude filho da puta, |PLAYERNAME|."/>
+		<parameter key="message_noshop" value="To vendendo sua mae pau no cu"/>
+		<parameter key="message_alreadyfocused" value="Ja to falando com voce seu filho da puta"/>
+		<parameter key="message_walkaway_male" value="Vai toma no seu cu desgracado."/>
+		<parameter key="message_walkaway_female" value="Vai toma no cu sua puta."/>
+		<!--KEYWORDS-->
+		<parameter key="module_keywords" value="1"/>
+		<parameter key="keywords" value="bom dia;tapita"/>
+		<parameter key="keyword_reply1" value="Vai toma no cu"/>
+		<parameter key="keyword_reply2" value="Filho da puta"/>
+		<parameter key="keyword_reply3" value="No teu cu"/>
+	</parameters>
+</npc>
