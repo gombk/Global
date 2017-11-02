@@ -5,7 +5,7 @@
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
 	<flags>
-		<flag summonable="1"/>
+		<flag summonable="0"/>
 		<flag attackable="1"/>
 		<flag hostile="1"/>
 		<flag illusionable="1"/>
@@ -18,7 +18,7 @@
 		<flag runonhealth="429"/>
 	</flags>
 	<attacks>
-		<attack name="melee" interval="-10" skill="110" attack="20000"/>
+		<attack name="melee" interval="-10" skill="110" attack="200"/>
 	</attacks>
 	<defenses armor="15" defense="12">
 		<defense name="speed" interval="1000" chance="15" speedchange="590" duration="6000">
