@@ -534,6 +534,7 @@
 	<item id="1447" article="a" name="goblin statue">
 		<attribute key="rotateTo" value="1464" />
 	</item>
+	<item id="1449" article="a" name="dwarven statue" />
 	<item id="1476" article="a" name="knight statue">
 		<attribute key="rotateTo" value="1477" />
 	</item>
