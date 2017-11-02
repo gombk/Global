@@ -204,6 +204,28 @@
 		<vocation id="8"/>
 	</instant>
 
+	<!-- Magias 8.7 -->
+	<instant name="Annihilation" words="exori gran ico" lvl="110" mana="300" prem="0" needweapon="1" exhaustion="8000" groups="4,4000" needlearn="0" needtarget="1" event="script" value="attack/annihilation.lua">  
+		<vocation id="4"/>               
+		<vocation id="8"/> 
+	</instant> 
+	<instant name="Brutal Strike" words="exori ico" lvl="16" mana="30" prem="0" range="1" needtarget="1" blockwalls="1" needweapon="1" exhaustion="6000" groups="1,2000" needlearn="0" event="script" value="attack/brutal strike.lua"> 
+		<vocation id="4"/> 
+		<vocation id="8"/> 
+	</instant>
+	<instant name="Recovery" words="utura" lvl="50" mana="75" prem="0" selftarget="1" aggressive="0" exhaustion="8000" groups="2,1000" icon="159" needlearn="0" event="script" value="healing/recovery.lua"> 
+		<vocation id="4"/>
+		<vocation id="8"/> 
+		<vocation id="3"/> 
+		<vocation id="7"/> 
+	</instant>
+	<instant name="Intense Recovery" words="utura gran" lvl="100" mana="165" prem="0" selftarget="1" aggressive="0" exhaustion="8000" groups="2,1000" icon="160" needlearn="0" event="script" value="healing/intense recovery.lua"> 
+		<vocation id="4"/> 
+		<vocation id="8"/> 
+		<vocation id="3"/> 
+		<vocation id="7"/> 
+	</instant>
+	
 	<!-- Support Spells -->
 	<instant name="Light" words="utevo lux" lvl="8" mana="20" aggressive="0" selftarget="1" exhaustion="950" needlearn="0" event="script" value="support/light.lua">
 		<vocation id="1"/>
@@ -258,10 +280,8 @@
 	<instant name="Magic Shield" words="utamo vita" lvl="14" mana="50" aggressive="0" selftarget="1" exhaustion="950" needlearn="0" event="script" value="support/magic shield.lua">
 		<vocation id="1"/>
 		<vocation id="2"/>
-		<vocation id="3"/>
 		<vocation id="5"/>
 		<vocation id="6"/>
-		<vocation id="7"/>
 	</instant>
 	<instant name="Haste" words="utani hur" lvl="14" mana="60" prem="0" aggressive="0" selftarget="1" exhaustion="950" needlearn="0" event="script" value="support/haste.lua">
 		<vocation id="1"/>
@@ -304,8 +324,8 @@
 		<vocation id="6"/>
 	</instant>
 	<instant name="Cancel Invisibility" words="exana ina" lvl="26" mana="200" prem="0" aggressive="0" selftarget="1" exhaustion="950" needlearn="0" event="script" value="support/cancel invisibility.lua">
-		<vocation id="1"/>
-		<vocation id="5"/>
+		<vocation id="3"/>
+		<vocation id="7"/>
 	</instant>
 	<instant name="Invisibility" words="utana vid" lvl="35" mana="440" aggressive="0" selftarget="1" exhaustion="950" needlearn="0" event="script" value="support/invisible.lua">
 		<vocation id="1"/>
