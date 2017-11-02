@@ -6,7 +6,6 @@
 	<globalevent name="offtrain_add_minutes" interval="60000" event="script" value="offtrain_addMinutes.lua"/>
 	<globalevent name="clean" interval="86400000" event="script" value="clean.lua"/>
 	<globalevent name="info" interval="3600000" event="script" value="info.lua"/>
-	<globalevent name="infoo" interval="1800000" event="script" value="infoo.lua"/>
 	<globalevent name="serverstart" type="start" event="script" value="start.lua"/>
 	<globalevent name="playersrecord" type="record" event="script" value="record.lua"/>
 	<globalevent name="raid" interval="20000" event="script" value="raid.lua"/>
