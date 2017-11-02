@@ -23,6 +23,8 @@
     <event type="login" name="ExpVip" script="vipexp.lua"/>
     <event type="login" name="FirstItems" event="script" value="firstitems.lua"/>
     <event type="advance" name="levelplayer" script="20k.lua"/>
+	<event type="advance" name="levelplayer" script="50k.lua"/>
+	<event type="advance" name="levelplayer" script="100k.lua"/>
     <event type="login" name="FimVip" event="script" value="vip.lua"/>
 	
 	<!--Treiners Offline-->

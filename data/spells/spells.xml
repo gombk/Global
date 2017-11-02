@@ -225,6 +225,30 @@
 		<vocation id="3"/> 
 		<vocation id="7"/> 
 	</instant>
+	<instant name="Strong Ethereal Spear" words="exori gran con" lvl="90" mana="55" prem="0" range="7" needtarget="1" exhaustion="4000" groups="1,2000" blockwalls="1" needlearn="0" event="script" value="attack/strong ethereal spear.lua"> 
+		<vocation id="3"/> 
+		<vocation id="7"/>  
+	</instant> 
+	<instant name="Strong Energy Strike" words="exori gran vis" lvl="80" mana="60" prem="0" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="4000" groups="1,2000" needlearn="0" event="script" value="attack/strong energy strike.lua"> 
+		<vocation id="1"/>
+		<vocation id="5"/>
+	</instant>
+	<instant name="Ultimate Energy Strike" words="exori max vis" lvl="100" mana="100" prem="0" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="8000" groups="4,4000"  needlearn="0" event="script" value="attack/ultimate energy strike.lua"> 
+		<vocation id="1"/>
+		<vocation id="5"/> 
+	</instant> 
+	<instant name="Strong Ice Strike" words="exori gran frigo" lvl="80" mana="60" prem="0" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="4000" groups="1,2000" needlearn="0" event="script" value="attack/strong ice strike.lua"> 
+		<vocation id="2"/>
+		<vocation id="6"/>
+	</instant>
+	<instant name="Strong Flame Strike" words="exori gran flam" lvl="70" mana="60" prem="0" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="5000" groups="1,2000" needlearn="0" event="script" value="attack/strong flame strike.lua"> 
+		<vocation id="1"/>
+		<vocation id="5"/>
+	</instant>
+	<instant name="Strong Terra Strike" words="exori gran tera" lvl="70" mana="60" prem="0" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="4000" groups="1,2000" needlearn="0" event="script" value="attack/strong terra strike.lua"> 
+		<vocation id="2"/> 
+		<vocation id="6"/> 
+	</instant>
 	
 	<!-- Support Spells -->
 	<instant name="Light" words="utevo lux" lvl="8" mana="20" aggressive="0" selftarget="1" exhaustion="950" needlearn="0" event="script" value="support/light.lua">
