@@ -241,11 +241,23 @@
 		<vocation id="2"/>
 		<vocation id="6"/>
 	</instant>
+	<instant name="Ultimate Ice Strike" words="exori max frigo" lvl="100" mana="100" prem="0" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="8000" groups="4,4000" needlearn="0" event="script" value="attack/ultimate ice strike.lua"> 
+		<vocation id="2"/> 
+		<vocation id="6"/>  
+	</instant>
 	<instant name="Strong Flame Strike" words="exori gran flam" lvl="70" mana="60" prem="0" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="5000" groups="1,2000" needlearn="0" event="script" value="attack/strong flame strike.lua"> 
 		<vocation id="1"/>
 		<vocation id="5"/>
 	</instant>
+	<instant name="Ultimate Flame Strike" words="exori max flam" lvl="90" mana="100" prem="0" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="8000" groups="4,4000" needlearn="0" event="script" value="attack/ultimate flame strike.lua">  
+		<vocation id="1"/>
+		<vocation id="5"/>
+	</instant> 
 	<instant name="Strong Terra Strike" words="exori gran tera" lvl="70" mana="60" prem="0" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="4000" groups="1,2000" needlearn="0" event="script" value="attack/strong terra strike.lua"> 
+		<vocation id="2"/> 
+		<vocation id="6"/> 
+	</instant>
+	<instant name="Ultimate Terra Strike" words="exori max tera" lvl="90" mana="100" prem="0" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="8000" groups="4,4000" needlearn="0" event="script" value="attack/ultimate terra strike.lua"> 
 		<vocation id="2"/> 
 		<vocation id="6"/> 
 	</instant>
