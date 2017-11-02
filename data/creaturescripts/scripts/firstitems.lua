@@ -13,6 +13,7 @@ function onLogin(cid)
 			doPlayerAddItem(cid, 2457, 1)
 			doPlayerAddItem(cid, 2647, 1)
 			doPlayerAddItem(cid, 2643, 1)
+			doPlayerAddItem(cid, 2173, 1)
 
 		setPlayerStorageValue(cid, 50000, 1)
 
@@ -28,6 +29,7 @@ function onLogin(cid)
 			doPlayerAddItem(cid, 2457, 1)
 			doPlayerAddItem(cid, 2647, 1)
 			doPlayerAddItem(cid, 2643, 1)
+			doPlayerAddItem(cid, 2173, 1)
 
 			setPlayerStorageValue(cid, 50000, 1)
 
@@ -36,7 +38,8 @@ function onLogin(cid)
 			doAddContainerItem(bag, 2120, 1)
 			doAddContainerItem(bag, 2554, 1)
 			doAddContainerItem(bag, 2160, 2)
-		
+			
+			doPlayerAddItem(cid, 2173, 1)		
 			doPlayerAddItem(cid, 2389, 3)
 			doPlayerAddItem(cid, 2525, 1)
 			doPlayerAddItem(cid, 2457, 1)
@@ -54,8 +57,8 @@ function onLogin(cid)
 			doAddContainerItem(bag, 2383, 1)
 			doAddContainerItem(bag, 2417, 1)				
 			
-		
-	            doPlayerAddItem(cid, 2525, 1)
+			doPlayerAddItem(cid, 2173, 1)		
+	        doPlayerAddItem(cid, 2525, 1)
 			doPlayerAddItem(cid, 2463, 1)
 			doPlayerAddItem(cid, 2457, 1)
 			doPlayerAddItem(cid, 2647, 1)
