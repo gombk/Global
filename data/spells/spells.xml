@@ -233,6 +233,10 @@
 		<vocation id="2"/> 
 		<vocation id="6"/>  
 	</instant>
+	<instant name="Strong Ice Wave" words="exevo gran frigo hur" lvl="40" mana="170" prem="0" direction="1" exhaustion="4000" groups="1,2000;4,800" icon="43" needlearn="0" event="script" value="attack/strong ice wave.lua"> 
+		<vocation id="2"/> 
+		<vocation id="6"/> 
+	</instant>
 	<instant name="Strong Flame Strike" words="exori gran flam" lvl="70" mana="60" prem="0" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="5000" groups="1,2000" needlearn="0" event="script" value="attack/strong flame strike.lua"> 
 		<vocation id="1"/>
 		<vocation id="5"/>

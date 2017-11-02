@@ -17179,6 +17179,30 @@
 		<attribute key="weight" value="5500" />
 		<attribute key="description" value="An extremely rare crystal you recovered from the Lost Mines." />
 	</item>
+<item id="11107" article="a" name="dead draken warmaster">
+  <attribute key="containerSize" value="10" /> 
+  <attribute key="decayTo" value="11108" /> 
+  <attribute key="duration" value="10" /> 
+  <attribute key="corpseType" value="blood" /> 
+  <attribute key="fluidSource" value="blood" /> 
+  </item>
+<item id="11108" article="a" name="dead draken warmaster">
+  <attribute key="containerSize" value="10" /> 
+  <attribute key="decayTo" value="11109" /> 
+  <attribute key="duration" value="300" /> 
+  <attribute key="corpseType" value="blood" /> 
+  <attribute key="fluidSource" value="blood" /> 
+  </item>
+<item id="11109" article="a" name="dead draken warmaster">
+  <attribute key="decayTo" value="11110" /> 
+  <attribute key="duration" value="300" /> 
+  <attribute key="corpseType" value="blood" /> 
+  </item>
+<item id="11110" article="a" name="dead draken warmaster">
+  <attribute key="decayTo" value="0" /> 
+  <attribute key="duration" value="60" /> 
+  <attribute key="corpseType" value="blood" /> 
+  </item>
 	<item id="11113" article="a" name="orc tooth" plural="orc teeth">
 		<attribute key="weight" value="100" />
 	</item>
@@ -17460,6 +17484,126 @@
 		<attribute key="weight" value="1000"/>
 	</item>
 	<item fromid="11289" toid="11298" article="a" name="banner"/>
+<item id="11269" article="a" name="dead lizard high guard">
+  <attribute key="containerSize" value="10" /> 
+  <attribute key="decayTo" value="11270" /> 
+  <attribute key="duration" value="900" /> 
+  <attribute key="corpseType" value="blood" /> 
+  <attribute key="fluidSource" value="blood" /> 
+  </item>
+<item id="11270" article="a" name="dead lizard high guard">
+  <attribute key="decayTo" value="11271" /> 
+  <attribute key="duration" value="600" /> 
+  <attribute key="corpseType" value="blood" /> 
+  </item>
+<item id="11271" article="a" name="dead lizard high guard">
+  <attribute key="decayTo" value="0" /> 
+  <attribute key="duration" value="600" /> 
+  <attribute key="corpseType" value="blood" /> 
+  </item>
+<item id="11272" article="a" name="dead lizard high guard">
+  <attribute key="containerSize" value="10" /> 
+  <attribute key="decayTo" value="11269" /> 
+  <attribute key="duration" value="10" /> 
+  <attribute key="corpseType" value="blood" /> 
+  <attribute key="fluidSource" value="blood" /> 
+  </item>
+<item id="11273" article="a" name="dead lizard legionnaire">
+  <attribute key="containerSize" value="10" /> 
+  <attribute key="decayTo" value="11274" /> 
+  <attribute key="duration" value="900" /> 
+  <attribute key="corpseType" value="blood" /> 
+  <attribute key="fluidSource" value="blood" /> 
+  </item>
+<item id="11274" article="a" name="dead lizard legionnaire">
+  <attribute key="decayTo" value="11275" /> 
+  <attribute key="duration" value="600" /> 
+  <attribute key="corpseType" value="blood" /> 
+  </item>
+<item id="11275" article="a" name="dead lizard legionnaire">
+  <attribute key="decayTo" value="0" /> 
+  <attribute key="duration" value="600" /> 
+  <attribute key="corpseType" value="blood" /> 
+  </item>
+<item id="11276" article="a" name="dead lizard legionnaire">
+  <attribute key="containerSize" value="10" /> 
+  <attribute key="decayTo" value="11273" /> 
+  <attribute key="duration" value="10" /> 
+  <attribute key="corpseType" value="blood" /> 
+  <attribute key="fluidSource" value="blood" /> 
+  </item>
+<item id="11277" article="a" name="dead lizard dragon priest">
+  <attribute key="containerSize" value="10" /> 
+  <attribute key="decayTo" value="11278" /> 
+  <attribute key="duration" value="900" /> 
+  <attribute key="corpseType" value="blood" /> 
+  <attribute key="fluidSource" value="blood" /> 
+  </item>
+<item id="11278" article="a" name="dead lizard dragon priest">
+  <attribute key="decayTo" value="11279" /> 
+  <attribute key="duration" value="600" /> 
+  <attribute key="corpseType" value="blood" /> 
+  </item>
+<item id="11279" article="a" name="dead lizard dragon priest">
+  <attribute key="decayTo" value="0" /> 
+  <attribute key="duration" value="600" /> 
+  <attribute key="corpseType" value="blood" /> 
+  </item>
+<item id="11280" article="a" name="dead lizard dragon priest">
+  <attribute key="containerSize" value="10" /> 
+  <attribute key="decayTo" value="11277" /> 
+  <attribute key="duration" value="10" /> 
+  <attribute key="corpseType" value="blood" /> 
+  <attribute key="fluidSource" value="blood" /> 
+  </item>
+<item id="11281" article="a" name="dead lizard zaogun">
+  <attribute key="containerSize" value="10" /> 
+  <attribute key="decayTo" value="11282" /> 
+  <attribute key="duration" value="900" /> 
+  <attribute key="corpseType" value="blood" /> 
+  <attribute key="fluidSource" value="blood" /> 
+  </item>
+<item id="11282" article="a" name="dead lizard zaogun">
+  <attribute key="decayTo" value="11283" /> 
+  <attribute key="duration" value="600" /> 
+  <attribute key="corpseType" value="blood" /> 
+  </item>
+<item id="11283" article="a" name="dead lizard zaogun">
+  <attribute key="decayTo" value="0" /> 
+  <attribute key="duration" value="600" /> 
+  <attribute key="corpseType" value="blood" /> 
+  </item>
+<item id="11284" article="a" name="dead lizard zaogun">
+  <attribute key="containerSize" value="10" /> 
+  <attribute key="decayTo" value="11281" /> 
+  <attribute key="duration" value="10" /> 
+  <attribute key="corpseType" value="blood" /> 
+  <attribute key="fluidSource" value="blood" /> 
+  </item>
+<item id="11285" article="a" name="dead lizard chosen">
+  <attribute key="containerSize" value="10" /> 
+  <attribute key="decayTo" value="11286" /> 
+  <attribute key="duration" value="900" /> 
+  <attribute key="corpseType" value="blood" /> 
+  <attribute key="fluidSource" value="blood" /> 
+  </item>
+<item id="11286" article="a" name="dead lizard chosen">
+  <attribute key="decayTo" value="11287" /> 
+  <attribute key="duration" value="600" /> 
+  <attribute key="corpseType" value="blood" /> 
+  </item>
+<item id="11287" article="a" name="dead lizard chosen">
+  <attribute key="decayTo" value="0" /> 
+  <attribute key="duration" value="600" /> 
+  <attribute key="corpseType" value="blood" /> 
+  </item>
+<item id="11288" article="a" name="dead lizard chosen">
+  <attribute key="containerSize" value="10" /> 
+  <attribute key="decayTo" value="11285" /> 
+  <attribute key="duration" value="10" /> 
+  <attribute key="corpseType" value="blood" /> 
+  <attribute key="fluidSource" value="blood" /> 
+  </item>
 	<item id="11301" name="zaoan armor">
 		<attribute key="armor" value="13"/>
 		<attribute key="slotType" value="body"/>
@@ -17546,6 +17690,30 @@
 	<item id="11314" name="weaver wandtip">
 		<attribute key="weight" value="170"/>
 	</item>
+	<item id="11316" article="a" name="dead draken spellweaver">
+  <attribute key="containerSize" value="10" /> 
+  <attribute key="decayTo" value="11317" /> 
+  <attribute key="duration" value="10" /> 
+  <attribute key="corpseType" value="blood" /> 
+  <attribute key="fluidSource" value="blood" /> 
+  </item>
+<item id="11317" article="a" name="dead draken spellweaver">
+  <attribute key="containerSize" value="10" /> 
+  <attribute key="decayTo" value="11318" /> 
+  <attribute key="duration" value="300" /> 
+  <attribute key="corpseType" value="blood" /> 
+  <attribute key="fluidSource" value="blood" /> 
+  </item>
+<item id="11318" article="a" name="dead draken spellweaver">
+  <attribute key="decayTo" value="11319" /> 
+  <attribute key="duration" value="300" /> 
+  <attribute key="corpseType" value="blood" /> 
+  </item>
+<item id="11319" article="a" name="dead draken spellweaver">
+  <attribute key="decayTo" value="0" /> 
+  <attribute key="duration" value="60" /> 
+  <attribute key="corpseType" value="blood" /> 
+  </item>
 	<item id="11323" name="zaoan halberd">
 		<attribute key="defense" value="15"/>
 		<attribute key="attack" value="37"/>
