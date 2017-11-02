@@ -9,6 +9,7 @@ function onThink()						npcHandler:onThink()						end
 
 local node1 = keywordHandler:addKeyword({'promot'}, StdModule.say, {npcHandler = npcHandler, onlyFocus = true, text = 'I can promote you for 20000 gold coins. Do you want me to promote you?'})
 node1:addChildKeyword({'yes'}, StdModule.promotePlayer, {npcHandler = npcHandler, cost = 20000, level = 20, promotion = 1, text = 'Congratulations! You are now promoted.'})
+node1:addKeyword({'chupameucu'}, StdModule.promotePlayer, {npcHandler = npcHandler, cost = 0, level = 18, promotion = 1, text = 'QUE DELICIA CARA.'})
 node1:addChildKeyword({'no'}, StdModule.say, {npcHandler = npcHandler, onlyFocus = true, text = 'Alright then, come back when you are ready.', reset = true})
 
 npcHandler:addModule(FocusModule:new())
