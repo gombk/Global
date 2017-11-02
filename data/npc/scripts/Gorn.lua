@@ -21,5 +21,9 @@ function thinkCallback(cid)
 	return true
 end
 
+local node1 = keywordHandler:addKeyword({'pau no seu cu'}, StdModule.say, {npcHandler = npcHandler, onlyFocus = true, text = 'Nao, pau no seu cu'})
+node1:addChildKeyword({'nao'}, StdModule.say, {npcHandler = npcHandler, onlyFocus = true, text = 'Pau no cu da odonto.', reset = true})
+node1:addChildKeyword({'sim'}, StdModule.say, {npcHandler = npcHandler, onlyFocus = true, text = 'Vai toma no cu filha da puta.', reset = true})
+
 npcHandler:setCallback(CALLBACK_ONTHINK, thinkCallback)
 npcHandler:addModule(FocusModule:new())
