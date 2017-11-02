@@ -1,10 +1,9 @@
 -- [( Script created by DoidinMapper )] --
 function onThink(interval, lastExecution)
 MENSAGEM = {
-"Bem Vindo ao .::Orion-Server::.",
+"Bem Vindo ao TibiaLand!",
 "Aproveitem ao maximo nosso servidor",
-"Seja VIP você tabém",
-"Acess nosso site: http://orion-otserv.servegame.com/",
+"Acess nosso site: http://tibialand.servegame.com/",
 }
 doBroadcastMessage(MENSAGEM[math.random(1,#MENSAGEM)],22)
 return TRUE

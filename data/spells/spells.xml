@@ -199,7 +199,7 @@
 		<vocation id="3"/>
 		<vocation id="7"/>
 	</instant>
-	<instant name="Wound Cleansing" words="exana mort" lvl="30" mana="65" prem="0" selftarget="1" aggressive="0" exhaustion="950" needlearn="0" event="script" value="healing/wound cleansing.lua">
+	<instant name="Wound Cleansing" words="exura ico" lvl="30" mana="65" prem="0" selftarget="1" aggressive="0" exhaustion="950" needlearn="0" event="script" value="healing/wound cleansing.lua">
 		<vocation id="4"/>
 		<vocation id="8"/>
 	</instant>
