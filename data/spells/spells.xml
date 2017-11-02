@@ -213,18 +213,6 @@
 		<vocation id="4"/> 
 		<vocation id="8"/> 
 	</instant> 
-	<instant name="Recovery" words="utura" lvl="50" mana="75" prem="0" selftarget="1" aggressive="0" exhaustion="8000" groups="2,1000" needlearn="0" event="script" value="healing/recovery.lua"> 
-		<vocation id="4"/>
-		<vocation id="8"/> 
-		<vocation id="3"/> 
-		<vocation id="7"/> 
-	</instant>
-	<instant name="Intense Recovery" words="utura gran" lvl="100" mana="165" prem="0" selftarget="1" aggressive="0" exhaustion="8000" groups="2,1000" needlearn="0" event="script" value="healing/intense recovery.lua"> 
-		<vocation id="4"/> 
-		<vocation id="8"/> 
-		<vocation id="3"/> 
-		<vocation id="7"/> 
-	</instant>
 	<instant name="Strong Ethereal Spear" words="exori gran con" lvl="90" mana="55" prem="0" range="7" needtarget="1" exhaustion="4000" groups="1,2000" blockwalls="1" needlearn="0" event="script" value="attack/strong ethereal spear.lua"> 
 		<vocation id="3"/> 
 		<vocation id="7"/>  
@@ -265,7 +253,8 @@
 		<vocation id="1"/> 
 		<vocation id="5"/> 
 	</instant>
-	<!--
+	
+	<!--Suport 8.7 -->
 	<instant name="Cure Burning" words="exana flam" lvl="30" mana="30" prem="0" aggressive="0" selftarget="1" exhaustion="1000" groups="2,1000" needlearn="0" event="script" value="healing/cure burning.lua">
 		<vocation id="2"/>
 		<vocation id="6"/>
@@ -286,8 +275,20 @@
 		<vocation id="3"/> 
 		<vocation id="7"/> 
 	</instant> 
+	<instant name="Recovery" words="utura" lvl="50" mana="75" prem="0" selftarget="1" aggressive="0" exhaustion="8000" groups="2,1000" needlearn="0" event="script" value="healing/recovery.lua"> 
+		<vocation id="4"/>
+		<vocation id="8"/> 
+		<vocation id="3"/> 
+		<vocation id="7"/> 
+	</instant>
+	<instant name="Intense Recovery" words="utura gran" lvl="100" mana="165" prem="0" selftarget="1" aggressive="0" exhaustion="8000" groups="2,1000" needlearn="0" event="script" value="healing/intense recovery.lua"> 
+		<vocation id="4"/> 
+		<vocation id="8"/> 
+		<vocation id="3"/> 
+		<vocation id="7"/> 
+	</instant>
 	
-
+	<!--Utori-->
 	<instant name="Ignite" words="utori flam" lvl="26" mana="30" prem="0" range="3" needtarget="1" blockwalls="1" exhaustion="6000" groups="1,2000" needlearn="0" event="script" value="attack/ignite.lua"> 
 		<vocation id="1"/> 
 		<vocation id="5"/> 
@@ -303,7 +304,7 @@
 	<instant name="Holy Flash" words="utori san" lvl="70" mana="30" prem="0" range="5" casterTargetOrDirection="1" blockwalls="1" exhaustion="8000" groups="1,2000" needlearn="0" event="script" value="attack/holy flash.lua"> 
 		<vocation id="3"/> 
 		<vocation id="7"/>
-	</instant> -->
+	</instant> 
 	
 	<!-- Support Spells -->
 	<instant name="Light" words="utevo lux" lvl="8" mana="20" aggressive="0" selftarget="1" exhaustion="950" needlearn="0" event="script" value="support/light.lua">
