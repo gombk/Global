@@ -61,8 +61,6 @@
 		<item id="2477" chance="3360"/><!-- knight legs -->
 		<item id="2394" chance="8940"/><!-- morning star -->
 		<item id="9809" chance="4510"/><!-- rusty armor -->
-		<item id="1987" chance="100000"><!-- bag -->
-			<inside>
 			<item id="9970" countmax="3" chance1="14590"/><!-- small topaz -->
 			<item id="7452" chance="920"/><!-- spiked squelcher -->
 			<item id="8473" chance="10390"/><!-- ultimate health potion -->
@@ -71,7 +69,5 @@
 			<item id="9969" chance="230"/><!-- black skull -->
 			<item id="7421" chance="200"/><!-- onyx fail -->
 			<item id="9948" chance="150"/><!-- dracoyle statue -->
-			</inside>
-		</item>
 	</loot>
 </monster>

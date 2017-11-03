@@ -59,8 +59,6 @@
 		<item id="2553" chance="7250"/><!-- pick -->
 		<item id="2125" chance="480"/><!-- crystal necklace -->
 		<item id="2152" countmax="3" chance1="7810"/><!-- platinum coin -->
-		<item id="1987" chance="100000"><!-- bag -->
-			<inside>
 		<item id="2148" countmax="90" chance="50000"/><!-- gold coin -->
 		<item id="2150" countmax="2" chance1="12000"/><!-- small amethyst -->
 		<item id="2393" chance="1290"/><!-- giant sword -->
@@ -72,7 +70,5 @@
 		<item id="2178" chance="640"/><!-- mind stone -->
 		<item id="7427" chance="1370"/><!-- chaos mace -->
 		<item id="5741" chance="160"/><!-- skull helmet -->
-			</inside>
-		</item>
 	</loot>
 </monster>

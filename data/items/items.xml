@@ -18652,11 +18652,17 @@
 		<attribute key="skillDist" value="1" />
 		<attribute key="absorbPercentDeath" value="3" />
 	</item>
-	<item id="12660" name="draken boots">
+	<item id="12646" name="draken boots">
 		<attribute key="weight" value="2500" />
 		<attribute key="armor" value="3" />
 		<attribute key="slotType" value="feet" />
 		<attribute key="speed" value="30" />
+		<attribute key="showattributes" value="1" />
+	</item>
+	<item id="12660" name="broken draken boots">
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="1" />
+		<attribute key="slotType" value="feet" />
 		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="12647" article="a" name="snake god's wristguard">

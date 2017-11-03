@@ -8,7 +8,7 @@
 		 <parameter key="message_walkaway" value="May God show you the path, |PLAYERNAME|." />
 		<parameter key="message_sendtrade" value="Of course, just browse through my offers." />
 		<parameter key="message_greet" value="Welcome, |PLAYERNAME|." />
-		<parameter key="shop_buyable" value="blessed wooden stake,5942,10000;obsidian knife,5908,10000;shovel,2554,50;fishing rod,2580,150;rope,2120,50;machete,2420,40;golden backpack,2004,20;golden bag,1997,5;pick,2553,50;scythe,2550,50;machete,2420,40;torch,2050,2;bottle,2007,3,1;document,1952,12;book,1958,15;parchment,1948,8;scroll,1949,5;plate,2035,6;present box,1990,10;watch,2036,20;worm,3976,1;bucket,2005,1,4;candlestick,2047,2;crowbar,2416,260;crowbar,10223,1000;" />
-		<parameter key="shop_sellable" value="rope,2120,8;" />
+        <parameter key="shop_sellable" value="white pearl,2143,160;black pearl,2144,280;small topaz,9970,200;small diamond,2145,300;small sapphire,2146,250;small ruby,2147,250;small emerald,2149,250;small amethyst,2150,200;gold ingot,9971,5000;wedding ring,2121,100" />
+        <parameter key="shop_buyable" value="white pearl,2143,320;black pearl,2144,560;small diamond,2145,600;small sapphire,2146,500;small ruby,2147,500;small emerald,2149,500;small amethyst,2150,400;ruby necklace,2133,3560;wedding ring,2121,990;golden amulet,2130,6600;golden goblet,5805,5000;silver goblet,5806,3000;bronze goblet,5807,2000" />
 	</parameters>
 </npc>

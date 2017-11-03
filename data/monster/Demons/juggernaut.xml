@@ -61,8 +61,6 @@
 		<item id="7591" chance="7500"/><!-- great health potion -->	
 		<item id="2671" countmax="8" chance="10750"/><!-- ham -->
 		<item id="2152" countmax="5" chance="2400"/><!-- platinum coin -->
-		<item id="1987" chance="100000"><!-- bag -->
-			<inside>	
 				<item id="9808" chance="7500"/><!-- rusty armor -->
 				<item id="5944" chance="30000"/><!-- soul orb -->
 				<item id="7452" chance="1500"/><!-- spiked squelcher -->
@@ -76,7 +74,5 @@
 				<item id="2514" chance="450"/><!-- mastermand shield -->
 				<item id="8889" chance="300"/><!-- skullcracker armor -->
 				<item id="2452" chance="250"/><!-- heavy mace -->	
-			</inside>
-		</item>
 	</loot>
 </monster>

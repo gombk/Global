@@ -46,10 +46,7 @@
 		<item id="2548" chance="50000"/><!-- Pitch Fork -->
 		<item id="2050" chance="10000"/><!-- torch -->
 		<item id="2260" chance="12750"/><!-- blank rune -->
-		
 		<item id="2419" chance="5300"/><!-- scimitar -->
-		<item id="1987" chance="100000"><!-- bag -->
-			<inside>
 		<item id="2050" chance="10000"/><!-- torch -->
 		<item id="2387" chance="2500"/><!-- double axe -->
 		<item id="2150" chance="550"/><!-- small amethyst -->
@@ -57,7 +54,5 @@
 		<item id="2515" chance="270"/><!-- guardian shield -->
 		<item id="2191" chance="100"/><!-- wand of dragonbreath -->
 		<item id="2185" chance="270"/><!-- necrotic rod -->
-			</inside>
-		</item>
 	</loot>
 </monster>

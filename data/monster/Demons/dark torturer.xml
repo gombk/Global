@@ -57,9 +57,7 @@
 		<item id="23500" chance="22000"/><!-- concentrated demonic blood -->
 		<item id="6300" chance="1330"/><!-- death ring -->
 		<item id="6500" chance="8750"/><!-- demonic essence -->
-		<item id="7591" chance="7430"/><!-- great health potion -->
-		<item id="1987" chance="100000"><!-- bag -->
-			<inside>		
+		<item id="7591" chance="7430"/><!-- great health potion -->	
 				<item id="2671" countmax="2" chance1="66310"/><!-- ham -->
 				<item id="23500" chance="6000"/><!-- concentrated demonic blood -->
 				<item id="2148" countmax="90" chance="30000"/><!-- gold coin -->
@@ -74,7 +72,5 @@
 				<item id="7388" chance="530"/><!-- vile axe -->
 				<item id="2470" chance="100"/><!-- golden legs -->
 				<item id="9971" chance="300"/><!-- gold ingot -->
-			</inside>
-		</item>
 	</loot>
 </monster>

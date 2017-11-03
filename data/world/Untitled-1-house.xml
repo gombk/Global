@@ -209,7 +209,7 @@
   <house name="Thais 6" houseid="257" entryx="32413" entryy="32189" entryz="6" rent="0" townid="5" size="21"/>
   <house name="Thais 7" houseid="258" entryx="32422" entryy="32189" entryz="6" rent="0" townid="5" size="21"/>
   <house name="Thais 8" houseid="259" entryx="32423" entryy="32198" entryz="7" rent="0" townid="5" size="16"/>
-  <house name="Thais 90" houseid="260" entryx="32352" entryy="32205" entryz="7" rent="0" townid="5" size="285"/>
+  <house name="Thais 90" houseid="260" entryx="32348" entryy="32213" entryz="7" rent="0" townid="5" size="277"/>
   <house name="Thais 10" houseid="261" entryx="32423" entryy="32208" entryz="7" rent="0" townid="5" size="17"/>
   <house name="Thais 11" houseid="262" entryx="32423" entryy="32198" entryz="6" rent="0" townid="5" size="17"/>
   <house name="Thais 12" houseid="263" entryx="32423" entryy="32203" entryz="6" rent="0" townid="5" size="17"/>
@@ -260,33 +260,33 @@
   <house name="Thais 57" houseid="308" entryx="32356" entryy="32262" entryz="7" rent="0" townid="5" size="63"/>
   <house name="Thais 58" houseid="309" entryx="32360" entryy="32252" entryz="7" rent="0" townid="5" size="67"/>
   <house name="Thais 59" houseid="310" entryx="32348" entryy="32252" entryz="7" rent="0" townid="5" size="63"/>
-  <house name="Thais 60" houseid="311" entryx="32284" entryy="32256" entryz="7" rent="0" townid="5" size="45"/>
-  <house name="Thais 61" houseid="312" entryx="32288" entryy="32256" entryz="7" rent="0" townid="5" size="55"/>
-  <house name="Thais 62" houseid="313" entryx="32300" entryy="32254" entryz="7" rent="0" townid="5" size="20"/>
-  <house name="Thais 63" houseid="316" entryx="32309" entryy="32243" entryz="7" rent="0" townid="5" size="18"/>
-  <house name="Thais 66" houseid="317" entryx="32303" entryy="32244" entryz="6" rent="0" townid="5" size="19"/>
-  <house name="Thais 67" houseid="318" entryx="32314" entryy="32245" entryz="7" rent="0" townid="5" size="12"/>
-  <house name="Thais 68" houseid="319" entryx="32314" entryy="32240" entryz="7" rent="0" townid="5" size="12"/>
-  <house name="Thais 69" houseid="320" entryx="32309" entryy="32235" entryz="7" rent="0" townid="5" size="13"/>
-  <house name="Thais 70" houseid="321" entryx="32313" entryy="32235" entryz="7" rent="0" townid="5" size="13"/>
-  <house name="Thais 71" houseid="322" entryx="32317" entryy="32235" entryz="7" rent="0" townid="5" size="12"/>
-  <house name="Thais 72" houseid="323" entryx="32314" entryy="32243" entryz="6" rent="0" townid="5" size="13"/>
-  <house name="Thais 73" houseid="324" entryx="32314" entryy="32238" entryz="6" rent="0" townid="5" size="15"/>
-  <house name="Thais 74" houseid="325" entryx="32314" entryy="32234" entryz="6" rent="0" townid="5" size="15"/>
+  <house name="Thais 60" houseid="311" entryx="32284" entryy="32256" entryz="7" rent="0" townid="5" size="43"/>
+  <house name="Thais 61" houseid="312" entryx="32288" entryy="32256" entryz="7" rent="0" townid="5" size="53"/>
+  <house name="Thais 62" houseid="313" entryx="32300" entryy="32254" entryz="7" rent="0" townid="5" size="18"/>
+  <house name="Thais 63" houseid="316" entryx="32309" entryy="32243" entryz="7" rent="0" townid="5" size="16"/>
+  <house name="Thais 66" houseid="317" entryx="32303" entryy="32244" entryz="6" rent="0" townid="5" size="17"/>
+  <house name="Thais 67" houseid="318" entryx="32314" entryy="32245" entryz="7" rent="0" townid="5" size="10"/>
+  <house name="Thais 68" houseid="319" entryx="32314" entryy="32240" entryz="7" rent="0" townid="5" size="10"/>
+  <house name="Thais 69" houseid="320" entryx="32309" entryy="32235" entryz="7" rent="0" townid="5" size="11"/>
+  <house name="Thais 70" houseid="321" entryx="32313" entryy="32235" entryz="7" rent="0" townid="5" size="11"/>
+  <house name="Thais 71" houseid="322" entryx="32317" entryy="32235" entryz="7" rent="0" townid="5" size="10"/>
+  <house name="Thais 72" houseid="323" entryx="32314" entryy="32243" entryz="6" rent="0" townid="5" size="11"/>
+  <house name="Thais 73" houseid="324" entryx="32314" entryy="32238" entryz="6" rent="0" townid="5" size="13"/>
+  <house name="Thais 74" houseid="325" entryx="32314" entryy="32234" entryz="6" rent="0" townid="5" size="13"/>
   <house name="Thais 75" houseid="326" entryx="32312" entryy="32234" entryz="6" rent="0" townid="5" size="7"/>
   <house name="Thais 76" houseid="327" entryx="32309" entryy="32234" entryz="6" rent="0" townid="5" size="6"/>
-  <house name="Thais 77" houseid="328" entryx="32334" entryy="32244" entryz="7" rent="0" townid="5" size="12"/>
-  <house name="Thais 78" houseid="329" entryx="32333" entryy="32237" entryz="7" rent="0" townid="5" size="12"/>
-  <house name="Thais 79" houseid="330" entryx="32333" entryy="32232" entryz="7" rent="0" townid="5" size="13"/>
-  <house name="Thais 80" houseid="331" entryx="32334" entryy="32249" entryz="6" rent="0" townid="5" size="13"/>
-  <house name="Thais 81" houseid="332" entryx="32334" entryy="32244" entryz="6" rent="0" townid="5" size="18"/>
-  <house name="Thais 82" houseid="333" entryx="32333" entryy="32237" entryz="6" rent="0" townid="5" size="12"/>
-  <house name="Thais 83" houseid="334" entryx="32333" entryy="32232" entryz="6" rent="0" townid="5" size="13"/>
+  <house name="Thais 77" houseid="328" entryx="32334" entryy="32244" entryz="7" rent="0" townid="5" size="10"/>
+  <house name="Thais 78" houseid="329" entryx="32333" entryy="32237" entryz="7" rent="0" townid="5" size="10"/>
+  <house name="Thais 79" houseid="330" entryx="32333" entryy="32232" entryz="7" rent="0" townid="5" size="11"/>
+  <house name="Thais 80" houseid="331" entryx="32334" entryy="32249" entryz="6" rent="0" townid="5" size="11"/>
+  <house name="Thais 81" houseid="332" entryx="32334" entryy="32244" entryz="6" rent="0" townid="5" size="16"/>
+  <house name="Thais 82" houseid="333" entryx="32333" entryy="32237" entryz="6" rent="0" townid="5" size="10"/>
+  <house name="Thais 83" houseid="334" entryx="32333" entryy="32232" entryz="6" rent="0" townid="5" size="11"/>
   <house name="Thais 84" houseid="335" entryx="32334" entryy="32249" entryz="5" rent="0" townid="5" size="12"/>
   <house name="Thais 85" houseid="336" entryx="32334" entryy="32244" entryz="5" rent="0" townid="5" size="17"/>
   <house name="Thais 86" houseid="337" entryx="32333" entryy="32237" entryz="5" rent="0" townid="5" size="13"/>
   <house name="Thais 87" houseid="338" entryx="32333" entryy="32232" entryz="5" rent="0" townid="5" size="12"/>
-  <house name="Thais 89" houseid="340" entryx="32336" entryy="32210" entryz="7" rent="0" townid="5" size="21"/>
+  <house name="Thais 89" houseid="340" entryx="32336" entryy="32210" entryz="7" rent="0" townid="5" size="19"/>
   <house name="Greenshore 1" houseid="342" entryx="32290" entryy="32070" entryz="7" rent="0" townid="5" size="248"/>
   <house name="Greenshore 2" houseid="343" entryx="32278" entryy="32069" entryz="7" rent="0" townid="5" size="129"/>
   <house name="Greenshore 3" houseid="344" entryx="32274" entryy="32062" entryz="7" rent="0" townid="5" size="30"/>
@@ -509,7 +509,6 @@
   <house name="Cormaya House 6" houseid="1582" entryx="33315" entryy="31966" entryz="7" rent="0" townid="14" size="7"/>
   <house name="Cormaya House 7" houseid="1583" entryx="33320" entryy="31966" entryz="7" rent="0" townid="14" size="11"/>
   <house name="Cormaya House 9" houseid="1585" entryx="33292" entryy="31982" entryz="7" rent="0" townid="14" size="32"/>
-  <house name="Cormaya House 11" houseid="1587" entryx="33266" entryy="31960" entryz="7" rent="0" townid="14" size="0"/>
   <house name="Cormaya House 12" houseid="1588" entryx="33287" entryy="31988" entryz="7" rent="0" townid="14" size="46"/>
   <house name="Cormaya House 13" houseid="1589" entryx="33287" entryy="31994" entryz="7" rent="0" townid="14" size="47"/>
   <house name="Cormaya House 14" houseid="1590" entryx="33287" entryy="32000" entryz="7" rent="0" townid="14" size="54"/>
@@ -525,8 +524,8 @@
   <house name="Cormaya House 25" houseid="1601" entryx="33318" entryy="31966" entryz="6" rent="0" townid="14" size="11"/>
   <house name="Thais Guildhouse 6" houseid="1602" entryx="32396" entryy="32042" entryz="7" rent="0" townid="5" size="167"/>
   <house name="Kazordoon Guild House 2" houseid="1603" entryx="32599" entryy="31949" entryz="5" rent="0" townid="4" size="295"/>
-  <house name="Thais 64" houseid="1604" entryx="32300" entryy="32251" entryz="6" rent="0" townid="5" size="17"/>
-  <house name="Thais 65" houseid="1605" entryx="32300" entryy="32249" entryz="6" rent="0" townid="5" size="21"/>
+  <house name="Thais 64" houseid="1604" entryx="32300" entryy="32251" entryz="6" rent="0" townid="5" size="15"/>
+  <house name="Thais 65" houseid="1605" entryx="32300" entryy="32249" entryz="6" rent="0" townid="5" size="19"/>
   <house name="Darashia Flat #1606" houseid="1606" entryx="33266" entryy="32453" entryz="7" rent="0" townid="7" size="101"/>
   <house name="Darashia Flat #1607" houseid="1607" entryx="33257" entryy="32466" entryz="7" rent="0" townid="7" size="14"/>
   <house name="Darashia Flat #1608" houseid="1608" entryx="33259" entryy="32466" entryz="7" rent="0" townid="7" size="68"/>

@@ -63,8 +63,6 @@
 		<item id="6558" chance="22000"/><!-- concentrated demonic blood -->
 		<item id="6500" chance="6620"/><!-- demonic essence -->
 		<item id="2260" chance="12000"/><!-- blank rune -->
-		<item id="1987" chance="100000"><!-- bag -->
-			<inside>
 		<item id="7900" chance="740"/><!-- magma monocle -->
 		<item id="6300" chance="500"/><!-- death ring -->
 		<item id="7899" chance="740"/><!-- magma coat-->
@@ -78,7 +76,5 @@
 		<item id="5944" chance="5880"/><!-- soul orb -->
 		<item id="2148" countmax="7" chance1="17650"/><!-- platinum coin -->
 		<item id="2185" chance="1470"/><!-- necrotic rod -->
-			</inside>
-		</item>
 	</loot>
 </monster>
