@@ -202,9 +202,9 @@ eachBlessReduction = 8
 experienceStages = true
 rateExperience = 500.0
 rateExperienceFromPlayers = false
-rateSkill = 30.0
+rateSkill = 25.0
 rateMagic = 20.0
-rateLoot = 4.0
+rateLoot = 3.0
 rateSpawn = 3
 
 rateMonsterHealth = 1.0

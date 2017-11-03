@@ -18574,7 +18574,7 @@
 	<item id="12630" article="a" name="cobra crown">
 		<attribute key="weight" value="850"/>
 		<attribute key="armor" value="3"/>
-		<attribute key="magicpoints" value="2"/>
+		<attribute key="magiclevelpoints" value="2" />
 		<attribute key="absorbPercentFire" value="-5"/>
 		<attribute key="absorbPercentEarth" value="5"/>
 		<attribute key="slotType" value="head"/>
