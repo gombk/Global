@@ -5,7 +5,8 @@ local FOODS = {
 	2674, -- aple
 	2689, -- bread
 	2690, -- roll
-	2696 -- cheese
+	2696, -- cheese
+	2789  -- brown mushroom
 }
 
 function onCastSpell(cid, var)
