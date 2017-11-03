@@ -503,16 +503,16 @@
   <house name="Liberty Bay Flat #1467" houseid="1467" entryx="32281" entryy="32858" entryz="7" rent="0" townid="12" size="8"/>
   <house name="Liberty Bay Flat #1468" houseid="1468" entryx="32267" entryy="32859" entryz="7" rent="0" townid="12" size="291"/>
   <house name="Liberty Bay Flat #1469" houseid="1469" entryx="32344" entryy="32826" entryz="7" rent="0" townid="12" size="107"/>
-  <house name="Cormaya House 2" houseid="1578" entryx="33311" entryy="31965" entryz="7" rent="0" townid="14" size="4"/>
+  <house name="Cormaya House 2" houseid="1578" entryx="33311" entryy="31965" entryz="7" rent="0" townid="14" size="8"/>
   <house name="Cormaya House 3" houseid="1579" entryx="33315" entryy="31965" entryz="7" rent="0" townid="14" size="7"/>
   <house name="Cormaya House 4" houseid="1580" entryx="33320" entryy="31965" entryz="7" rent="0" townid="14" size="11"/>
   <house name="Cormaya House 6" houseid="1582" entryx="33315" entryy="31966" entryz="7" rent="0" townid="14" size="7"/>
   <house name="Cormaya House 7" houseid="1583" entryx="33320" entryy="31966" entryz="7" rent="0" townid="14" size="11"/>
   <house name="Cormaya House 9" houseid="1585" entryx="33292" entryy="31982" entryz="7" rent="0" townid="14" size="32"/>
-  <house name="Cormaya House 11" houseid="1587" entryx="33304" entryy="31978" entryz="7" rent="0" townid="14" size="0"/>
-  <house name="Cormaya House 12" houseid="1588" entryx="33287" entryy="31988" entryz="7" rent="0" townid="14" size="3"/>
-  <house name="Cormaya House 13" houseid="1589" entryx="33287" entryy="31994" entryz="7" rent="0" townid="14" size="3"/>
-  <house name="Cormaya House 14" houseid="1590" entryx="33287" entryy="32000" entryz="7" rent="0" townid="14" size="10"/>
+  <house name="Cormaya House 11" houseid="1587" entryx="33266" entryy="31960" entryz="7" rent="0" townid="14" size="0"/>
+  <house name="Cormaya House 12" houseid="1588" entryx="33287" entryy="31988" entryz="7" rent="0" townid="14" size="46"/>
+  <house name="Cormaya House 13" houseid="1589" entryx="33287" entryy="31994" entryz="7" rent="0" townid="14" size="47"/>
+  <house name="Cormaya House 14" houseid="1590" entryx="33287" entryy="32000" entryz="7" rent="0" townid="14" size="54"/>
   <house name="Cormaya House 15" houseid="1591" entryx="33278" entryy="31980" entryz="7" rent="0" townid="14" size="57"/>
   <house name="Cormaya House 16" houseid="1592" entryx="33294" entryy="32005" entryz="7" rent="0" townid="14" size="73"/>
   <house name="Cormaya House 17" houseid="1593" entryx="33305" entryy="32005" entryz="7" rent="0" townid="14" size="38"/>
@@ -959,4 +959,9 @@
   <house name="Kazordoon 71" houseid="2103" entryx="32605" entryy="31923" entryz="11" rent="0" townid="4" size="10"/>
   <house name="Kazordoon 72" houseid="2104" entryx="32607" entryy="31923" entryz="12" rent="0" townid="4" size="11"/>
   <house name="Kazordoon 73" houseid="2105" entryx="32603" entryy="31923" entryz="12" rent="0" townid="4" size="11"/>
+  <house name="Cormaya House 26" houseid="2106" entryx="33311" entryy="31966" entryz="7" rent="0" townid="14" size="8"/>
+  <house name="Cormaya House 27" houseid="2107" entryx="33302" entryy="31963" entryz="7" rent="0" townid="14" size="21"/>
+  <house name="Cormaya House 28" houseid="2108" entryx="33297" entryy="31968" entryz="7" rent="0" townid="14" size="43"/>
+  <house name="Cormaya House 29" houseid="2109" entryx="33302" entryy="31976" entryz="7" rent="0" townid="14" size="28"/>
+  <house name="Cormaya House 30" houseid="2110" entryx="33304" entryy="31978" entryz="7" rent="0" townid="14" size="38"/>
 </houses>
