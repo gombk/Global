@@ -68,7 +68,7 @@ allowFightback = true
 fistBaseAttack = 7
 
 worldId = 0
-ip = "127.0.0.1"
+ip = "tibialand.servegame.com"
 bindOnlyGlobalAddress = false
 loginPort = 7171
 gamePort = 7172
@@ -94,7 +94,7 @@ sqlType = "mysql"
 sqlHost = "localhost"
 sqlPort = 3306
 sqlUser = "root"
-sqlPass = ""
+sqlPass = "j3ld3V1ado!"
 sqlDatabase = "global"
 sqlFile = ""
 sqlKeepAlive = 0
