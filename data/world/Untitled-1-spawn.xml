@@ -10053,9 +10053,6 @@
   <spawn centerx="32531" centery="32107" centerz="6" radius="1">
     <monster name="Cyclops" x="0" y="-1" z="6" spawntime="30"/>
   </spawn>
-  <spawn centerx="32945" centery="32109" centerz="6" radius="1">
-    <npc name="Bulma" x="0" y="0" z="6" spawntime="60"/>
-  </spawn>
   <spawn centerx="31925" centery="32110" centerz="6" radius="1">
     <monster name="Frost Dragon" x="0" y="0" z="6" spawntime="60"/>
   </spawn>
@@ -18806,9 +18803,7 @@
   <spawn centerx="32890" centery="31791" centerz="7" radius="1">
     <monster name="Orc Berserker" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="32322" centery="31792" centerz="7" radius="1">
-    <npc name="Bulma" x="1" y="1" z="7" spawntime="60"/>
-  </spawn>
+  <spawn centerx="32322" centery="31792" centerz="7" radius="1"/>
   <spawn centerx="32969" centery="31793" centerz="7" radius="5">
     <monster name="Orc Berserker" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
@@ -21746,6 +21741,9 @@
   <spawn centerx="32349" centery="32219" centerz="7" radius="1">
     <npc name="Benjamin" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
+  <spawn centerx="32362" centery="32219" centerz="7" radius="1">
+    <npc name="Nah'Bob" x="0" y="0" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="32407" centery="32219" centerz="7" radius="2">
     <npc name="hanna" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
@@ -21760,9 +21758,6 @@
   </spawn>
   <spawn centerx="3260" centery="32220" centerz="7" radius="5">
     <monster name="Snake" x="0" y="0" z="7" spawntime="60"/>
-  </spawn>
-  <spawn centerx="32362" centery="32220" centerz="7" radius="1">
-    <npc name="Bulma" x="0" y="-1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32379" centery="32220" centerz="7" radius="1">
     <npc name="Oswald" x="-1" y="-1" z="7" spawntime="29"/>
