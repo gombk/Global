@@ -5176,13 +5176,13 @@
 		<attribute key="corpseType" value="blood" />
 	</item>
 	<item id="2916" article="a" name="slain demon">
-		<attribute key="containerSize" value="10" />
+		<attribute key="containerSize" value="20" />
 		<attribute key="decayTo" value="2917" />
 		<attribute key="duration" value="900" />
 		<attribute key="corpseType" value="blood" />
 	</item>
 	<item id="2917" article="a" name="slain demon">
-		<attribute key="containerSize" value="10" />
+		<attribute key="containerSize" value="20" />
 		<attribute key="decayTo" value="2918" />
 		<attribute key="duration" value="600" />
 		<attribute key="corpseType" value="blood" />
@@ -8415,7 +8415,7 @@
 		<attribute key="fluidSource" value="blood" />
 	</item>
 	<item id="5527" article="a" name="demon dust">
-		<attribute key="containerSize" value="10" />
+		<attribute key="containerSize" value="25" />
 		<attribute key="decayTo" value="5528" />
 		<attribute key="duration" value="900" />
 		<attribute key="corpseType" value="blood" />
@@ -9045,13 +9045,13 @@
 		<attribute key="weight" value="1250" />
 	</item>
 	<item id="5931" name="ferumbras remains">
-		<attribute key="containerSize" value="10" />
+		<attribute key="containerSize" value="25" />
 		<attribute key="decayTo" value="5932" />
 		<attribute key="duration" value="900" />
 		<attribute key="corpseType" value="venom" />
 	</item>
 	<item id="5932" name="ferumbras remains">
-		<attribute key="containerSize" value="10" />
+		<attribute key="containerSize" value="25" />
 		<attribute key="decayTo" value="5933" />
 		<attribute key="duration" value="600" />
 		<attribute key="corpseType" value="venom" />
@@ -9396,7 +9396,7 @@
 		<attribute key="fluidSource" value="blood" />
 	</item>
 	<item id="5995" article="a" name="slain demon">
-		<attribute key="containerSize" value="10" />
+		<attribute key="containerSize" value="20" />
 		<attribute key="decayTo" value="2916" />
 		<attribute key="duration" value="10" />
 		<attribute key="corpseType" value="blood" />
@@ -9899,7 +9899,7 @@
 		<attribute key="fluidSource" value="blood" />
 	</item>
 	<item id="6068" article="a" name="demon dust">
-		<attribute key="containerSize" value="10" />
+		<attribute key="containerSize" value="25" />
 		<attribute key="decayTo" value="5527" />
 		<attribute key="duration" value="10" />
 		<attribute key="corpseType" value="blood" />
@@ -17714,6 +17714,12 @@
   <attribute key="duration" value="60" /> 
   <attribute key="corpseType" value="blood" /> 
   </item>
+  <item id="11321" article="a" name="bone shoulderplate">
+  <attribute key="weight" value="220" /> 
+  </item>
+<item id="11322" article="a" name="warmaster's wristguards">
+  <attribute key="weight" value="120" /> 
+  </item>
 	<item id="11323" name="zaoan halberd">
 		<attribute key="defense" value="15"/>
 		<attribute key="attack" value="37"/>
@@ -18571,14 +18577,14 @@
 	<item id="12629" article="a" name="scale of corruption" plural="scales of corruption">
 		<attribute key="weight" value="93"/>
 	</item>
-	<item id="12630" article="a" name="cobra crown">
-		<attribute key="weight" value="850"/>
-		<attribute key="armor" value="3"/>
-		<attribute key="magiclevelpoints" value="2" />
-		<attribute key="absorbPercentFire" value="-5"/>
-		<attribute key="absorbPercentEarth" value="5"/>
-		<attribute key="slotType" value="head"/>
-	</item>
+<item id="12630" article="a" name="cobra crown">
+  <attribute key="weight" value="850" /> 
+  <attribute key="armor" value="3" /> 
+  <attribute key="magicpoints" value="2" /> 
+  <attribute key="absorbPercentEarth" value="5" /> 
+  <attribute key="absorbPercentFire" value="-5" /> 
+  <attribute key="slotType" value="head" /> 
+  </item>
 	<item id="12631" article="a" name="dead souleater" editorsuffix=" (Unmoveable)">
 		<attribute key="containerSize" value="10"/>
 		<attribute key="decayTo" value="12632"/>

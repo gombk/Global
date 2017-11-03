@@ -229,16 +229,12 @@
     <monster name="Crystal Spider" x="1" y="0" z="1" spawntime="60"/>
   </spawn>
   <spawn centerx="33178" centery="31197" centerz="1" radius="5">
-    <monster name="Lizard Snakecharmer" x="-3" y="-3" z="1" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="-4" y="-2" z="1" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="5" y="-1" z="1" spawntime="60"/>
-    <monster name="Lizard Templar" x="-5" y="0" z="1" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="-2" y="0" z="1" spawntime="60"/>
-    <monster name="Lizard Templar" x="-1" y="1" z="1" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="-2" y="2" z="1" spawntime="60"/>
-    <monster name="Lizard Templar" x="4" y="2" z="1" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="2" y="3" z="1" spawntime="60"/>
-    <monster name="Lizard Templar" x="0" y="4" z="1" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-5" y="-2" z="1" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="4" y="-2" z="1" spawntime="60"/>
+    <monster name="Lizard Zaogun" x="-1" y="0" z="1" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-5" y="1" z="1" spawntime="60"/>
+    <monster name="Lizard High Guard" x="3" y="1" z="1" spawntime="60"/>
+    <monster name="Lizard High Guard" x="0" y="3" z="1" spawntime="60"/>
   </spawn>
   <spawn centerx="32191" centery="31201" centerz="1" radius="1">
     <monster name="Polar Bear" x="1" y="0" z="1" spawntime="60"/>
@@ -647,17 +643,14 @@
     <monster name="Mammoth" x="0" y="-2" z="2" spawntime="30"/>
   </spawn>
   <spawn centerx="33172" centery="31197" centerz="2" radius="3">
-    <monster name="Lizard Templar" x="3" y="-3" z="2" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="2" y="-2" z="2" spawntime="60"/>
-    <monster name="Lizard Templar" x="1" y="2" z="2" spawntime="30976"/>
-    <monster name="Lizard Snakecharmer" x="3" y="2" z="2" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="1" y="3" z="2" spawntime="60"/>
+    <monster name="Lizard High Guard" x="1" y="-1" z="2" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="3" y="-1" z="2" spawntime="60"/>
+    <monster name="Lizard High Guard" x="2" y="2" z="2" spawntime="60"/>
   </spawn>
   <spawn centerx="33183" centery="31198" centerz="2" radius="3">
-    <monster name="Lizard Templar" x="-2" y="-3" z="2" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="0" y="-2" z="2" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="-1" y="2" z="2" spawntime="60"/>
-    <monster name="Lizard Templar" x="1" y="3" z="2" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-3" y="-3" z="2" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="0" y="-2" z="2" spawntime="60"/>
+    <monster name="Lizard High Guard" x="1" y="2" z="2" spawntime="60"/>
   </spawn>
   <spawn centerx="33124" centery="31202" centerz="2" radius="1">
     <monster name="draken spellweaver" x="1" y="0" z="2" spawntime="60"/>
@@ -1509,16 +1502,16 @@
     <monster name="Lizard Dragon Priest" x="1" y="0" z="3" spawntime="60"/>
   </spawn>
   <spawn centerx="33174" centery="31195" centerz="3" radius="3">
-    <monster name="Lizard Snakecharmer" x="1" y="-1" z="3" spawntime="60"/>
-    <monster name="Lizard Templar" x="-1" y="1" z="3" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="0" y="1" z="3" spawntime="60"/>
-    <monster name="Lizard Templar" x="0" y="2" z="3" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="0" y="-1" z="3" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-1" y="0" z="3" spawntime="60"/>
+    <monster name="Lizard High Guard" x="1" y="1" z="3" spawntime="60"/>
+    <monster name="Lizard High Guard" x="2" y="1" z="3" spawntime="60"/>
   </spawn>
   <spawn centerx="33182" centery="31195" centerz="3" radius="3">
-    <monster name="Lizard Snakecharmer" x="-2" y="-1" z="3" spawntime="60"/>
-    <monster name="Lizard Templar" x="-2" y="0" z="3" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="0" y="1" z="3" spawntime="60"/>
-    <monster name="Lizard Templar" x="1" y="1" z="3" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-1" y="-1" z="3" spawntime="60"/>
+    <monster name="Lizard High Guard" x="0" y="-1" z="3" spawntime="60"/>
+    <monster name="Lizard High Guard" x="1" y="0" z="3" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-2" y="1" z="3" spawntime="60"/>
   </spawn>
   <spawn centerx="33086" centery="31200" centerz="3" radius="1">
     <monster name="Lizard High Guard" x="1" y="0" z="3" spawntime="60"/>
@@ -2682,16 +2675,15 @@
     <monster name="Bug" x="1" y="0" z="4" spawntime="60"/>
   </spawn>
   <spawn centerx="33174" centery="31197" centerz="4" radius="5">
-    <monster name="Lizard Snakecharmer" x="-1" y="-2" z="4" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="1" y="-2" z="4" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="-1" y="1" z="4" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="0" y="4" z="4" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="0" y="-1" z="4" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="2" y="-1" z="4" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-1" y="2" z="4" spawntime="60"/>
   </spawn>
   <spawn centerx="33183" centery="31197" centerz="4" radius="3">
-    <monster name="Lizard Templar" x="-2" y="-2" z="4" spawntime="60"/>
-    <monster name="Lizard Templar" x="1" y="-1" z="4" spawntime="60"/>
-    <monster name="Lizard Templar" x="-2" y="0" z="4" spawntime="60"/>
-    <monster name="Lizard Templar" x="0" y="2" z="4" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-2" y="-1" z="4" spawntime="60"/>
+    <monster name="Lizard High Guard" x="0" y="-1" z="4" spawntime="60"/>
+    <monster name="Lizard High Guard" x="1" y="0" z="4" spawntime="60"/>
+    <monster name="Lizard High Guard" x="0" y="2" z="4" spawntime="60"/>
   </spawn>
   <spawn centerx="33090" centery="31200" centerz="4" radius="1">
     <monster name="Bug" x="1" y="0" z="4" spawntime="60"/>
@@ -4645,8 +4637,8 @@
     <monster name="Lizard High Guard" x="1" y="0" z="5" spawntime="60"/>
   </spawn>
   <spawn centerx="33257" centery="31142" centerz="5" radius="3">
-    <monster name="Lizard Snakecharmer" x="-1" y="0" z="5" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="1" y="0" z="5" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-1" y="0" z="5" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="1" y="0" z="5" spawntime="60"/>
   </spawn>
   <spawn centerx="33074" centery="31143" centerz="5" radius="1">
     <monster name="Lizard High Guard" x="1" y="0" z="5" spawntime="60"/>
@@ -4784,19 +4776,17 @@
     <monster name="Lizard Dragon Priest" x="1" y="0" z="5" spawntime="60"/>
   </spawn>
   <spawn centerx="33184" centery="31196" centerz="5" radius="3">
-    <monster name="Lizard Templar" x="1" y="-3" z="5" spawntime="60"/>
-    <monster name="Lizard Templar" x="-3" y="-1" z="5" spawntime="30976"/>
-    <monster name="Lizard Templar" x="-2" y="-1" z="5" spawntime="60"/>
-    <monster name="Lizard Templar" x="1" y="2" z="5" spawntime="60"/>
-    <monster name="Lizard Templar" x="-1" y="3" z="5" spawntime="60"/>
+    <monster name="Lizard High Guard" x="1" y="-2" z="5" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="-1" y="0" z="5" spawntime="60"/>
+    <monster name="Lizard High Guard" x="2" y="0" z="5" spawntime="60"/>
   </spawn>
   <spawn centerx="33088" centery="31197" centerz="5" radius="1">
     <monster name="Lizard High Guard" x="1" y="0" z="5" spawntime="60"/>
   </spawn>
   <spawn centerx="33171" centery="31197" centerz="5" radius="3">
-    <monster name="Lizard Sentinel" x="-1" y="-1" z="5" spawntime="60"/>
-    <monster name="Lizard Sentinel" x="0" y="1" z="5" spawntime="60"/>
-    <monster name="Lizard Sentinel" x="3" y="2" z="5" spawntime="60"/>
+    <monster name="Lizard High Guard" x="0" y="-1" z="5" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="2" y="-1" z="5" spawntime="60"/>
+    <monster name="Lizard High Guard" x="1" y="2" z="5" spawntime="60"/>
   </spawn>
   <spawn centerx="33045" centery="31200" centerz="5" radius="1">
     <monster name="Lizard High Guard" x="1" y="0" z="5" spawntime="60"/>
@@ -8104,8 +8094,8 @@
     <monster name="Lizard High Guard" x="1" y="0" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="33256" centery="31143" centerz="6" radius="3">
-    <monster name="Lizard Templar" x="2" y="0" z="6" spawntime="60"/>
-    <monster name="Lizard Templar" x="-1" y="2" z="6" spawntime="60"/>
+    <monster name="Lizard High Guard" x="2" y="1" z="6" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-1" y="2" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="33104" centery="31144" centerz="6" radius="1">
     <monster name="Lizard High Guard" x="1" y="0" z="6" spawntime="60"/>
@@ -8127,15 +8117,15 @@
   </spawn>
   <spawn centerx="33072" centery="31150" centerz="6" radius="1"/>
   <spawn centerx="33252" centery="31151" centerz="6" radius="3">
-    <monster name="Lizard Templar" x="1" y="-2" z="6" spawntime="60"/>
-    <monster name="Lizard Templar" x="-3" y="1" z="6" spawntime="60"/>
-    <monster name="Lizard Templar" x="1" y="1" z="6" spawntime="60"/>
+    <monster name="Lizard High Guard" x="2" y="-2" z="6" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-2" y="0" z="6" spawntime="60"/>
+    <monster name="Lizard High Guard" x="1" y="0" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="33125" centery="31154" centerz="6" radius="1">
     <monster name="Lizard Zaogun" x="1" y="0" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="33229" centery="31154" centerz="6" radius="2">
-    <monster name="Lizard Templar" x="0" y="1" z="6" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="1" y="0" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="33038" centery="31156" centerz="6" radius="1">
     <monster name="Lizard High Guard" x="1" y="0" z="6" spawntime="60"/>
@@ -8148,10 +8138,12 @@
   <spawn centerx="33087" centery="31157" centerz="6" radius="1">
     <monster name="Lizard Dragon Priest" x="1" y="0" z="6" spawntime="60"/>
   </spawn>
-  <spawn centerx="33238" centery="31157" centerz="6" radius="2"/>
+  <spawn centerx="33238" centery="31157" centerz="6" radius="2">
+    <monster name="Lizard Dragon Priest" x="-1" y="-1" z="6" spawntime="60"/>
+  </spawn>
   <spawn centerx="33247" centery="31159" centerz="6" radius="2">
-    <monster name="Lizard Templar" x="0" y="-1" z="6" spawntime="60"/>
-    <monster name="Lizard Templar" x="-1" y="0" z="6" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-1" y="-1" z="6" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="1" y="-1" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="32433" centery="31160" centerz="6" radius="1">
     <npc name="Captain Breezelda" x="-1" y="0" z="6" spawntime="60"/>
@@ -8175,7 +8167,7 @@
     <monster name="Lizard Dragon Priest" x="1" y="0" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="33227" centery="31163" centerz="6" radius="2">
-    <monster name="Lizard Templar" x="-1" y="-1" z="6" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-1" y="-1" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="33116" centery="31164" centerz="6" radius="1">
     <monster name="Lizard High Guard" x="1" y="0" z="6" spawntime="60"/>
@@ -8307,11 +8299,8 @@
     <monster name="Lizard Dragon Priest" x="1" y="0" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="33180" centery="31190" centerz="6" radius="4">
-    <monster name="Lizard Sentinel" x="-1" y="1" z="6" spawntime="60"/>
-    <monster name="Lizard Zaogun" x="3" y="1" z="6" spawntime="60"/>
-    <monster name="Lizard Chosen" x="-1" y="2" z="6" spawntime="60"/>
-    <monster name="Lizard Sentinel" x="3" y="3" z="6" spawntime="30976"/>
-    <monster name="Lizard Sentinel" x="3" y="4" z="6" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-3" y="1" z="6" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-1" y="1" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="33022" centery="31191" centerz="6" radius="1">
     <monster name="Lizard Legionnaire" x="1" y="0" z="6" spawntime="60"/>
@@ -8370,7 +8359,7 @@
     <monster name="Crystal Spider" x="1" y="0" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="33177" centery="31198" centerz="6" radius="2">
-    <monster name="Lizard Zaogun" x="0" y="2" z="6" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-1" y="-1" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="33087" centery="31199" centerz="6" radius="1">
     <monster name="Bug" x="1" y="0" z="6" spawntime="60"/>
@@ -8380,10 +8369,8 @@
     <monster name="Bug" x="0" y="1" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="33170" centery="31199" centerz="6" radius="4">
-    <monster name="Lizard Sentinel" x="-2" y="-3" z="6" spawntime="60"/>
-    <monster name="Lizard Chosen" x="-2" y="0" z="6" spawntime="60"/>
-    <monster name="Lizard Zaogun" x="2" y="1" z="6" spawntime="60"/>
-    <monster name="Lizard Sentinel" x="-1" y="4" z="6" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="1" y="-1" z="6" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-2" y="1" z="6" spawntime="60"/>
     <monster name="Lizard Sentinel" x="4" y="4" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="32186" centery="31200" centerz="6" radius="1">
@@ -8398,10 +8385,8 @@
   </spawn>
   <spawn centerx="33090" centery="31200" centerz="6" radius="1"/>
   <spawn centerx="33185" centery="31200" centerz="6" radius="4">
-    <monster name="Lizard Zaogun" x="-2" y="-2" z="6" spawntime="60"/>
-    <monster name="Lizard Sentinel" x="1" y="-1" z="6" spawntime="60"/>
-    <monster name="Lizard Chosen" x="2" y="-1" z="6" spawntime="60"/>
-    <monster name="Lizard Chosen" x="-4" y="0" z="6" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="0" y="-4" z="6" spawntime="60"/>
+    <monster name="Lizard High Guard" x="1" y="-2" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="32187" centery="31201" centerz="6" radius="1">
     <monster name="Novice Of The Cult" x="1" y="0" z="6" spawntime="60"/>
@@ -14042,15 +14027,15 @@
     <monster name="Lancer Beetle" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33268" centery="31107" centerz="7" radius="2">
-    <monster name="Lizard Templar" x="-1" y="-1" z="7" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="-1" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="0" y="-1" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-2" y="1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32405" centery="31108" centerz="7" radius="1">
     <monster name="Penguin" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33259" centery="31108" centerz="7" radius="2">
-    <monster name="Lizard Templar" x="1" y="-2" z="7" spawntime="60"/>
-    <monster name="Lizard Templar" x="2" y="2" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="0" y="-1" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="2" y="1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32365" centery="31109" centerz="7" radius="1">
     <monster name="Penguin" x="1" y="0" z="7" spawntime="60"/>
@@ -14137,8 +14122,8 @@
     <monster name="Wailing Widow" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33279" centery="31114" centerz="7" radius="2">
-    <monster name="Lizard Templar" x="2" y="0" z="7" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="0" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="2" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="0" y="2" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33144" centery="31115" centerz="7" radius="1">
     <monster name="Brimstone Bug" x="1" y="-1" z="7" spawntime="60"/>
@@ -14158,6 +14143,9 @@
   <spawn centerx="33210" centery="31115" centerz="7" radius="1">
     <monster name="Lancer Beetle" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
+  <spawn centerx="33266" centery="31115" centerz="7" radius="2">
+    <monster name="Lizard Dragon Priest" x="0" y="1" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="32389" centery="31116" centerz="7" radius="1">
     <monster name="Winter Wolf" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
@@ -14168,10 +14156,7 @@
     <monster name="Wailing Widow" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33256" centery="31116" centerz="7" radius="2">
-    <monster name="Lizard Templar" x="0" y="1" z="7" spawntime="60"/>
-  </spawn>
-  <spawn centerx="33265" centery="31116" centerz="7" radius="2">
-    <monster name="Lizard Snakecharmer" x="1" y="-1" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="1" y="1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32361" centery="31117" centerz="7" radius="1">
     <monster name="Winter Wolf" x="1" y="0" z="7" spawntime="60"/>
@@ -14325,8 +14310,8 @@
   </spawn>
   <spawn centerx="33138" centery="31125" centerz="7" radius="1"/>
   <spawn centerx="33269" centery="31126" centerz="7" radius="2">
-    <monster name="Lizard Templar" x="-1" y="-1" z="7" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="1" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="-1" y="-1" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="1" y="1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32471" centery="31127" centerz="7" radius="1">
     <monster name="Penguin" x="1" y="0" z="7" spawntime="60"/>
@@ -14378,9 +14363,9 @@
     <monster name="Wailing Widow" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33256" centery="31129" centerz="7" radius="2">
-    <monster name="Lizard Snakecharmer" x="-1" y="-1" z="7" spawntime="60"/>
-    <monster name="Lizard Templar" x="0" y="-1" z="7" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="-1" y="2" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-1" y="-1" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="0" y="-1" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-1" y="1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32190" centery="31130" centerz="7" radius="1">
     <monster name="Frost Troll" x="1" y="0" z="7" spawntime="60"/>
@@ -14568,7 +14553,7 @@
     <monster name="Lizard Legionnaire" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33311" centery="31138" centerz="7" radius="3">
-    <monster name="Lizard Sentinel" x="-1" y="-1" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="0" y="-2" z="7" spawntime="60"/>
     <monster name="Mutated Bat" x="2" y="-1" z="7" spawntime="60"/>
     <monster name="Lizard Sentinel" x="1" y="1" z="7" spawntime="60"/>
     <monster name="Lizard Sentinel" x="1" y="2" z="7" spawntime="60"/>
@@ -14773,10 +14758,9 @@
     <monster name="Brimstone Bug" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33313" centery="31149" centerz="7" radius="3">
-    <monster name="Lizard Sentinel" x="2" y="-1" z="7" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="-2" y="0" z="7" spawntime="60"/>
     <monster name="Mutated Tiger" x="-1" y="0" z="7" spawntime="60"/>
-    <monster name="Lizard Sentinel" x="-2" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="2" y="0" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-2" y="1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33043" centery="31150" centerz="7" radius="1">
     <monster name="Lizard High Guard" x="1" y="0" z="7" spawntime="60"/>
@@ -14802,15 +14786,13 @@
     <monster name="Lizard High Guard" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33268" centery="31152" centerz="7" radius="4">
-    <monster name="Lizard Snakecharmer" x="-1" y="-2" z="7" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="-1" y="2" z="7" spawntime="30976"/>
-    <monster name="Lizard Snakecharmer" x="0" y="2" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="-2" y="-1" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="-2" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="0" y="1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33337" centery="31152" centerz="7" radius="3">
-    <monster name="Lizard Sentinel" x="2" y="-1" z="7" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="2" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="2" y="1" z="7" spawntime="60"/>
     <monster name="Death Blob" x="-2" y="2" z="7" spawntime="60"/>
-    <monster name="Lizard Sentinel" x="-1" y="2" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32546" centery="31153" centerz="7" radius="1">
     <monster name="Chakoya Tribewarden" x="1" y="0" z="7" spawntime="60"/>
@@ -14837,7 +14819,7 @@
     <monster name="Wailing Widow" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33228" centery="31154" centerz="7" radius="4">
-    <monster name="Lizard Snakecharmer" x="2" y="2" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="1" y="2" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32549" centery="31155" centerz="7" radius="1">
     <monster name="Chakoya Toolshaper" x="1" y="0" z="7" spawntime="60"/>
@@ -14873,8 +14855,8 @@
     <monster name="Brimstone Bug" x="-1" y="1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33238" centery="31157" centerz="7" radius="4">
-    <monster name="Lizard Templar" x="-1" y="1" z="7" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="1" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-1" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-1" y="3" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33068" centery="31158" centerz="7" radius="1">
     <monster name="Lizard Legionnaire" x="1" y="0" z="7" spawntime="60"/>
@@ -14883,7 +14865,7 @@
   <spawn centerx="33173" centery="31158" centerz="7" radius="1"/>
   <spawn centerx="33328" centery="31158" centerz="7" radius="3">
     <monster name="Mutated Bat" x="1" y="0" z="7" spawntime="60"/>
-    <monster name="Lizard Sentinel" x="1" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-1" y="2" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33048" centery="31159" centerz="7" radius="1">
     <monster name="Lizard High Guard" x="1" y="0" z="7" spawntime="60"/>
@@ -14896,8 +14878,8 @@
     <monster name="Haunted Treeling" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33248" centery="31159" centerz="7" radius="4">
-    <monster name="Lizard Snakecharmer" x="-1" y="-1" z="7" spawntime="60"/>
-    <monster name="Lizard Templar" x="-1" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-1" y="-1" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-1" y="4" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32583" centery="31160" centerz="7" radius="1">
     <monster name="Polar Bear" x="1" y="0" z="7" spawntime="60"/>
@@ -14906,7 +14888,8 @@
     <monster name="Winter Wolf" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33301" centery="31160" centerz="7" radius="5">
-    <monster name="Lizard Sentinel" x="2" y="-1" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-1" y="-3" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="2" y="-1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33038" centery="31161" centerz="7" radius="1">
     <monster name="Lizard High Guard" x="1" y="0" z="7" spawntime="60"/>
@@ -14941,7 +14924,7 @@
     <monster name="Lizard Dragon Priest" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33227" centery="31163" centerz="7" radius="3">
-    <monster name="Lizard Snakecharmer" x="1" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="0" y="1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32582" centery="31164" centerz="7" radius="1">
     <monster name="Chakoya Windcaller" x="1" y="0" z="7" spawntime="60"/>
@@ -14961,10 +14944,17 @@
   <spawn centerx="33166" centery="31165" centerz="7" radius="1">
     <monster name="Brimstone Bug" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="33236" centery="31165" centerz="7" radius="3"/>
-  <spawn centerx="33267" centery="31165" centerz="7" radius="4"/>
+  <spawn centerx="33236" centery="31165" centerz="7" radius="3">
+    <monster name="Lizard Legionnaire" x="-3" y="-3" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-3" y="3" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="33267" centery="31165" centerz="7" radius="4">
+    <monster name="Lizard Legionnaire" x="-2" y="0" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="3" y="0" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="0" y="2" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="33278" centery="31165" centerz="7" radius="4">
-    <monster name="Lizard Snakecharmer" x="2" y="2" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="0" y="1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32409" centery="31166" centerz="7" radius="1"/>
   <spawn centerx="32564" centery="31166" centerz="7" radius="1">
@@ -14986,7 +14976,7 @@
     <monster name="Lizard High Guard" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33257" centery="31167" centerz="7" radius="3">
-    <monster name="Lizard Snakecharmer" x="1" y="2" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="0" y="2" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33137" centery="31168" centerz="7" radius="1">
     <monster name="Lizard Legionnaire" x="1" y="0" z="7" spawntime="60"/>
@@ -15008,7 +14998,10 @@
     <monster name="Lizard High Guard" x="0" y="1" z="7" spawntime="60"/>
     <monster name="Brimstone Bug" x="1" y="1" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="33250" centery="31169" centerz="7" radius="3"/>
+  <spawn centerx="33250" centery="31169" centerz="7" radius="3">
+    <monster name="Lizard High Guard" x="-1" y="-2" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="2" y="1" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="32232" centery="31170" centerz="7" radius="1">
     <monster name="Novice Of The Cult" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
@@ -15049,7 +15042,9 @@
   <spawn centerx="33148" centery="31171" centerz="7" radius="1">
     <monster name="Lancer Beetle" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="33219" centery="31171" centerz="7" radius="3"/>
+  <spawn centerx="33219" centery="31171" centerz="7" radius="3">
+    <monster name="Lizard High Guard" x="3" y="-3" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="32559" centery="31172" centerz="7" radius="1">
     <monster name="Chakoya Windcaller" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
@@ -15067,13 +15062,16 @@
   </spawn>
   <spawn centerx="33134" centery="31172" centerz="7" radius="1"/>
   <spawn centerx="33229" centery="31172" centerz="7" radius="3">
-    <monster name="Lizard Snakecharmer" x="0" y="-1" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="0" y="-1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33324" centery="31172" centerz="7" radius="5">
-    <monster name="Lizard Sentinel" x="-2" y="2" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="2" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-3" y="2" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33339" centery="31172" centerz="7" radius="5">
-    <monster name="Lizard Sentinel" x="-3" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="1" y="-4" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="3" y="0" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-2" y="4" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33082" centery="31173" centerz="7" radius="1">
     <monster name="Lizard High Guard" x="1" y="0" z="7" spawntime="60"/>
@@ -15083,7 +15081,8 @@
     <monster name="Dragon Hatchling" x="-1" y="1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33309" centery="31173" centerz="7" radius="5">
-    <monster name="Lizard Sentinel" x="-2" y="-1" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="-3" y="-1" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="1" y="2" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32579" centery="31174" centerz="7" radius="1">
     <monster name="Chakoya Windcaller" x="1" y="0" z="7" spawntime="60"/>
@@ -15097,7 +15096,7 @@
     <monster name="Brimstone Bug" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33257" centery="31174" centerz="7" radius="3">
-    <monster name="Lizard Templar" x="1" y="-3" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="0" y="-3" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33053" centery="31175" centerz="7" radius="1">
     <monster name="Lizard Legionnaire" x="1" y="0" z="7" spawntime="60"/>
@@ -15110,7 +15109,7 @@
   </spawn>
   <spawn centerx="33134" centery="31175" centerz="7" radius="1"/>
   <spawn centerx="33240" centery="31175" centerz="7" radius="4">
-    <monster name="Lizard Snakecharmer" x="2" y="-3" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="2" y="-3" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32235" centery="31176" centerz="7" radius="1">
     <monster name="Ice Golem" x="0" y="0" z="7" spawntime="60"/>
@@ -15119,12 +15118,15 @@
     <monster name="Chakoya Tribewarden" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33267" centery="31176" centerz="7" radius="4">
-    <monster name="Lizard Templar" x="0" y="-2" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="0" y="-2" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33278" centery="31176" centerz="7" radius="4">
-    <monster name="Lizard Snakecharmer" x="-3" y="2" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-3" y="2" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="33291" centery="31176" centerz="7" radius="4"/>
+  <spawn centerx="33291" centery="31176" centerz="7" radius="4">
+    <monster name="Lizard High Guard" x="0" y="-1" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="3" y="0" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="33077" centery="31177" centerz="7" radius="1">
     <monster name="Dragon Hatchling" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
@@ -15184,7 +15186,8 @@
     <monster name="Lizard Dragon Priest" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33184" centery="31183" centerz="7" radius="4">
-    <monster name="Lizard Snakecharmer" x="-3" y="2" z="7" spawntime="60"/>
+    <monster name="Killer Caiman" x="-1" y="-3" z="7" spawntime="60"/>
+    <monster name="Killer Caiman" x="-2" y="2" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33085" centery="31184" centerz="7" radius="1">
     <monster name="Dragon Hatchling" x="1" y="0" z="7" spawntime="60"/>
@@ -15204,20 +15207,24 @@
   </spawn>
   <spawn centerx="33084" centery="31185" centerz="7" radius="1"/>
   <spawn centerx="33318" centery="31186" centerz="7" radius="5">
-    <monster name="Lizard Sentinel" x="-3" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="1" y="-2" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-4" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33332" centery="31186" centerz="7" radius="5">
-    <monster name="Lizard Sentinel" x="4" y="0" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-1" y="-4" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="4" y="0" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="-1" y="1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33347" centery="31186" centerz="7" radius="5">
-    <monster name="Lizard Sentinel" x="-4" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="4" y="-2" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="-3" y="1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33085" centery="31187" centerz="7" radius="1">
     <monster name="Lizard Dragon Priest" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33232" centery="31187" centerz="7" radius="4">
-    <monster name="Lizard Sentinel" x="1" y="-1" z="7" spawntime="60"/>
-    <monster name="Lizard Templar" x="1" y="3" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-3" y="3" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="0" y="3" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32398" centery="31188" centerz="7" radius="1">
     <npc name="Benjamin" x="0" y="0" z="7" spawntime="10"/>
@@ -15227,23 +15234,27 @@
     <monster name="Lizard Legionnaire" x="0" y="1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33213" centery="31188" centerz="7" radius="4">
-    <monster name="Lizard Sentinel" x="1" y="0" z="7" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="3" y="2" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-1" y="0" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="1" y="2" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33264" centery="31188" centerz="7" radius="5">
-    <monster name="Lizard Templar" x="2" y="-2" z="7" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="3" y="-1" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="2" y="-2" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="3" y="-1" z="7" spawntime="60"/>
+    <monster name="Killer Caiman" x="4" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33276" centery="31188" centerz="7" radius="5">
-    <monster name="Lizard Sentinel" x="2" y="2" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="1" y="-3" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="-4" y="3" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="2" y="5" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33289" centery="31188" centerz="7" radius="5">
     <monster name="Lizard Sentinel" x="-3" y="-3" z="7" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="-4" y="1" z="7" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="1" y="3" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-4" y="0" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="1" y="3" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33304" centery="31188" centerz="7" radius="5">
-    <monster name="Lizard Sentinel" x="-1" y="-3" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="4" y="-4" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="-1" y="-2" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33051" centery="31189" centerz="7" radius="1">
     <monster name="Dragon Hatchling" x="1" y="0" z="7" spawntime="60"/>
@@ -15266,7 +15277,10 @@
     <monster name="Brimstone Bug" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33198" centery="31189" centerz="7" radius="4">
-    <monster name="Lizard Sentinel" x="1" y="0" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-1" y="-1" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="2" y="1" z="7" spawntime="60"/>
+    <monster name="Killer Caiman" x="0" y="2" z="7" spawntime="60"/>
+    <monster name="Killer Caiman" x="3" y="2" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32390" centery="31190" centerz="7" radius="1">
     <npc name="Bashira" x="1" y="0" z="7" spawntime="60"/>
@@ -15342,13 +15356,15 @@
     <monster name="Lizard High Guard" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33170" centery="31198" centerz="7" radius="5">
-    <monster name="Lizard Snakecharmer" x="4" y="-2" z="7" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="2" y="3" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="4" y="-1" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="4" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="3" y="3" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33183" centery="31198" centerz="7" radius="5">
-    <monster name="Lizard Snakecharmer" x="-1" y="-4" z="7" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="-2" y="0" z="7" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="-3" y="2" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-2" y="-3" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-1" y="-3" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-2" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-3" y="3" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33135" centery="31199" centerz="7" radius="1">
     <monster name="Bug" x="1" y="0" z="7" spawntime="60"/>
@@ -15356,7 +15372,10 @@
   <spawn centerx="33140" centery="31199" centerz="7" radius="1">
     <monster name="Lancer Beetle" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="33340" centery="31199" centerz="7" radius="5"/>
+  <spawn centerx="33340" centery="31199" centerz="7" radius="5">
+    <monster name="Lizard Legionnaire" x="-3" y="-2" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-2" y="0" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="33070" centery="31200" centerz="7" radius="1">
     <monster name="Lizard Legionnaire" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
@@ -15366,21 +15385,29 @@
   <spawn centerx="33088" centery="31200" centerz="7" radius="1">
     <monster name="Dragon Hatchling" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="33237" centery="31200" centerz="7" radius="4"/>
+  <spawn centerx="33237" centery="31200" centerz="7" radius="4">
+    <monster name="Lizard High Guard" x="1" y="2" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="33266" centery="31200" centerz="7" radius="5">
-    <monster name="Lizard Sentinel" x="3" y="2" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-2" y="-5" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="2" y="0" z="7" spawntime="60"/>
+    <monster name="Killer Caiman" x="2" y="5" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33280" centery="31200" centerz="7" radius="5">
-    <monster name="Lizard Sentinel" x="1" y="2" z="7" spawntime="60"/>
-    <monster name="Lizard Templar" x="3" y="2" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="1" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="3" y="1" z="7" spawntime="60"/>
+    <monster name="Killer Caiman" x="-3" y="4" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33295" centery="31200" centerz="7" radius="5">
-    <monster name="Lizard Snakecharmer" x="-2" y="-3" z="7" spawntime="60"/>
-    <monster name="Lizard Sentinel" x="-5" y="-1" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-2" y="-4" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="-5" y="-2" z="7" spawntime="60"/>
     <monster name="Lizard Sentinel" x="-4" y="4" z="7" spawntime="60"/>
     <monster name="Lizard Snakecharmer" x="-2" y="4" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="33309" centery="31200" centerz="7" radius="5"/>
+  <spawn centerx="33309" centery="31200" centerz="7" radius="5">
+    <monster name="Lizard High Guard" x="1" y="-3" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-2" y="1" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="33078" centery="31201" centerz="7" radius="1">
     <monster name="Lizard Legionnaire" x="1" y="0" z="7" spawntime="60"/>
     <monster name="Lizard High Guard" x="-1" y="1" z="7" spawntime="60"/>
@@ -15389,8 +15416,10 @@
     <monster name="Lancer Beetle" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33220" centery="31201" centerz="7" radius="4">
-    <monster name="Lizard Sentinel" x="-1" y="1" z="7" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="-2" y="3" z="7" spawntime="60"/>
+    <monster name="Killer Caiman" x="-3" y="-4" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="3" y="-2" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="-1" y="2" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="0" y="2" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33076" centery="31202" centerz="7" radius="1"/>
   <spawn centerx="33091" centery="31202" centerz="7" radius="1">
@@ -15398,7 +15427,9 @@
     <monster name="Dragon Hatchling" x="-1" y="1" z="7" spawntime="60"/>
     <monster name="Dragon Hatchling" x="0" y="1" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="33198" centery="31202" centerz="7" radius="4"/>
+  <spawn centerx="33198" centery="31202" centerz="7" radius="4">
+    <monster name="Lizard Legionnaire" x="2" y="4" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="33056" centery="31203" centerz="7" radius="1">
     <monster name="Lizard High Guard" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
@@ -15432,9 +15463,9 @@
     <monster name="Lizard High Guard" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33251" centery="31207" centerz="7" radius="4">
-    <monster name="Lizard Sentinel" x="0" y="-2" z="7" spawntime="60"/>
-    <monster name="Lizard Sentinel" x="1" y="-1" z="7" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="-3" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="-1" y="-2" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="2" y="-2" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="0" y="1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33063" centery="31208" centerz="7" radius="1">
     <monster name="Lizard Zaogun" x="1" y="0" z="7" spawntime="60"/>
@@ -15476,7 +15507,9 @@
   <spawn centerx="33132" centery="31211" centerz="7" radius="1">
     <monster name="Brimstone Bug" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="33299" centery="31211" centerz="7" radius="4"/>
+  <spawn centerx="33299" centery="31211" centerz="7" radius="4">
+    <monster name="Lizard High Guard" x="-1" y="1" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="32275" centery="31212" centerz="7" radius="1">
     <monster name="Penguin" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
@@ -15489,22 +15522,26 @@
     <monster name="Lizard Dragon Priest" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33270" centery="31212" centerz="7" radius="5">
-    <monster name="Lizard Snakecharmer" x="-3" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-3" y="1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33288" centery="31212" centerz="7" radius="4">
-    <monster name="Lizard Sentinel" x="3" y="3" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-1" y="-1" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="-4" y="2" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="0" y="4" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33106" centery="31213" centerz="7" radius="1"/>
   <spawn centerx="33134" centery="31213" centerz="7" radius="1">
     <monster name="Brimstone Bug" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33232" centery="31213" centerz="7" radius="4">
-    <monster name="Lizard Snakecharmer" x="-3" y="-3" z="7" spawntime="60"/>
-    <monster name="Lizard Sentinel" x="1" y="1" z="7" spawntime="60"/>
-    <monster name="Lizard Templar" x="3" y="2" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="0" y="-2" z="7" spawntime="60"/>
+    <monster name="Killer Caiman" x="4" y="-2" z="7" spawntime="60"/>
+    <monster name="Killer Caiman" x="0" y="-1" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="-2" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="2" y="1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33312" centery="31213" centerz="7" radius="4">
-    <monster name="Lizard Sentinel" x="1" y="-3" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="3" y="-2" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33136" centery="31214" centerz="7" radius="1">
     <monster name="Lizard Dragon Priest" x="1" y="0" z="7" spawntime="60"/>
@@ -15541,13 +15578,13 @@
     <monster name="Lizard Zaogun" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33180" centery="31216" centerz="7" radius="4">
-    <monster name="Lizard Sentinel" x="-2" y="-2" z="7" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="-1" y="2" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-1" y="-2" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="-2" y="2" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33195" centery="31216" centerz="7" radius="4">
-    <monster name="Lizard Templar" x="3" y="-3" z="7" spawntime="60"/>
-    <monster name="Lizard Sentinel" x="0" y="-1" z="7" spawntime="30976"/>
-    <monster name="Lizard Sentinel" x="1" y="-1" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="2" y="-3" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="-1" y="-1" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="3" y="-1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32265" centery="31217" centerz="7" radius="1">
     <monster name="Penguin" x="1" y="0" z="7" spawntime="60"/>
@@ -15557,15 +15594,17 @@
     <monster name="Dragon Hatchling" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33214" centery="31217" centerz="7" radius="4">
-    <monster name="Lizard Templar" x="1" y="-4" z="7" spawntime="60"/>
-    <monster name="Lizard Sentinel" x="2" y="-1" z="7" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="1" y="3" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-2" y="-1" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="2" y="-1" z="7" spawntime="60"/>
+    <monster name="Killer Caiman" x="-3" y="3" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="1" y="4" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33114" centery="31218" centerz="7" radius="1">
     <monster name="Lizard High Guard" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33303" centery="31219" centerz="7" radius="2">
-    <monster name="Lizard Sentinel" x="1" y="-1" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="2" y="-2" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32575" centery="31220" centerz="7" radius="6"/>
   <spawn centerx="33047" centery="31220" centerz="7" radius="1">
@@ -15575,11 +15614,10 @@
     <monster name="Lizard Zaogun" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33280" centery="31221" centerz="7" radius="4">
-    <monster name="Lizard Snakecharmer" x="0" y="-1" z="7" spawntime="60"/>
-    <monster name="Lizard Sentinel" x="-2" y="3" z="7" spawntime="60"/>
+    <monster name="Lizard Zaogun" x="0" y="-1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33293" centery="31222" centerz="7" radius="4">
-    <monster name="Lizard Snakecharmer" x="-1" y="-2" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-1" y="-1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33057" centery="31223" centerz="7" radius="1">
     <monster name="Lizard High Guard" x="1" y="0" z="7" spawntime="60"/>
@@ -15623,7 +15661,9 @@
   </spawn>
   <spawn centerx="33106" centery="31227" centerz="7" radius="1"/>
   <spawn centerx="33241" centery="31227" centerz="7" radius="4">
-    <monster name="Lizard Snakecharmer" x="1" y="2" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-2" y="-3" z="7" spawntime="60"/>
+    <monster name="Killer Caiman" x="-4" y="-2" z="7" spawntime="60"/>
+    <monster name="Killer Caiman" x="-4" y="2" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33038" centery="31228" centerz="7" radius="1">
     <monster name="Lizard Zaogun" x="1" y="0" z="7" spawntime="60"/>
@@ -15641,25 +15681,27 @@
     <monster name="Lizard Legionnaire" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33254" centery="31229" centerz="7" radius="4">
-    <monster name="Lizard Snakecharmer" x="-1" y="-3" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-1" y="-2" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="0" y="-2" z="7" spawntime="60"/>
     <monster name="Lizard Templar" x="3" y="3" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33126" centery="31230" centerz="7" radius="1">
     <monster name="Lizard Zaogun" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33184" centery="31230" centerz="7" radius="4">
-    <monster name="Lizard Snakecharmer" x="0" y="-2" z="7" spawntime="60"/>
-    <monster name="Lizard Sentinel" x="-2" y="2" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="1" y="-2" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="-2" y="2" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33204" centery="31230" centerz="7" radius="4">
-    <monster name="Lizard Snakecharmer" x="-1" y="0" z="7" spawntime="60"/>
-    <monster name="Lizard Templar" x="-2" y="1" z="7" spawntime="60"/>
-    <monster name="Lizard Sentinel" x="0" y="2" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="2" y="-4" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="-2" y="-1" z="7" spawntime="60"/>
+    <monster name="Killer Caiman" x="3" y="3" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33267" centery="31230" centerz="7" radius="4">
-    <monster name="Lizard Templar" x="1" y="-3" z="7" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="-3" y="2" z="7" spawntime="60"/>
-    <monster name="Lizard Snakecharmer" x="-2" y="2" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="1" y="-3" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-3" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-2" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="1" y="2" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33095" centery="31231" centerz="7" radius="1">
     <monster name="Lizard Legionnaire" x="1" y="0" z="7" spawntime="60"/>
@@ -15731,33 +15773,45 @@
     <monster name="Lizard High Guard" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33215" centery="31244" centerz="7" radius="4">
-    <monster name="Lizard Sentinel" x="0" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-1" y="-2" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="0" y="3" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32558" centery="31245" centerz="7" radius="6">
     <monster name="Skeleton" x="-4" y="-2" z="7" spawntime="60"/>
     <monster name="Penguin" x="1" y="2" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33169" centery="31245" centerz="7" radius="4">
-    <monster name="Lizard Sentinel" x="2" y="-1" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="0" y="4" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="33181" centery="31245" centerz="7" radius="4">
-    <monster name="Lizard Sentinel" x="-3" y="-1" z="7" spawntime="60"/>
-    <monster name="Lizard Templar" x="0" y="0" z="7" spawntime="60"/>
+  <spawn centerx="33182" centery="31245" centerz="7" radius="4">
+    <monster name="Lizard Legionnaire" x="-1" y="-2" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="2" y="-1" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-3" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33193" centery="31245" centerz="7" radius="4">
-    <monster name="Lizard Sentinel" x="1" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="-4" y="-3" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="3" y="-3" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="2" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="0" y="2" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33204" centery="31245" centerz="7" radius="4">
-    <monster name="Lizard Sentinel" x="0" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="1" y="4" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="33227" centery="31245" centerz="7" radius="4"/>
+  <spawn centerx="33227" centery="31245" centerz="7" radius="4">
+    <monster name="Lizard High Guard" x="-2" y="2" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="33239" centery="31245" centerz="7" radius="4">
+    <monster name="Lizard Dragon Priest" x="0" y="-3" z="7" spawntime="60"/>
     <monster name="Lizard Sentinel" x="2" y="3" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="2" y="4" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33251" centery="31245" centerz="7" radius="4">
-    <monster name="Lizard Sentinel" x="2" y="2" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="2" y="-2" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="1" y="2" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="33263" centery="31245" centerz="7" radius="4"/>
+  <spawn centerx="33263" centery="31245" centerz="7" radius="4">
+    <monster name="Lizard Dragon Priest" x="-1" y="-3" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="32567" centery="31246" centerz="7" radius="6">
     <monster name="Ghoul" x="4" y="2" z="7" spawntime="60"/>
     <monster name="Skeleton" x="1" y="3" z="7" spawntime="60"/>
@@ -15770,13 +15824,15 @@
     <monster name="Dragon Hatchling" x="0" y="1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33273" centery="31246" centerz="7" radius="4">
-    <monster name="Lizard Templar" x="-2" y="-1" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-2" y="0" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="2" y="1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33283" centery="31246" centerz="7" radius="4">
-    <monster name="Lizard Templar" x="-2" y="-1" z="7" spawntime="60"/>
+    <monster name="Lizard Dragon Priest" x="1" y="-4" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-1" y="1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33295" centery="31246" centerz="7" radius="4">
-    <monster name="Lizard Templar" x="0" y="-1" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="0" y="-2" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33072" centery="31247" centerz="7" radius="1"/>
   <spawn centerx="33106" centery="31247" centerz="7" radius="1">
@@ -15802,7 +15858,10 @@
   <spawn centerx="33123" centery="31250" centerz="7" radius="1">
     <monster name="Lizard High Guard" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="33155" centery="31250" centerz="7" radius="3"/>
+  <spawn centerx="33155" centery="31250" centerz="7" radius="3">
+    <monster name="Lizard Legionnaire" x="1" y="-2" z="7" spawntime="60"/>
+    <monster name="Killer Caiman" x="-1" y="0" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="32111" centery="31251" centerz="7" radius="1">
     <monster name="Barbarian Brutetamer" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
@@ -15834,21 +15893,28 @@
   <spawn centerx="33093" centery="31254" centerz="7" radius="1">
     <monster name="Dragon Hatchling" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="33145" centery="31254" centerz="7" radius="3"/>
+  <spawn centerx="33145" centery="31254" centerz="7" radius="3">
+    <monster name="Lizard Legionnaire" x="3" y="-2" z="7" spawntime="60"/>
+    <monster name="Killer Caiman" x="0" y="-1" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="33239" centery="31254" centerz="7" radius="4">
-    <monster name="Lizard Templar" x="-1" y="-2" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-1" y="-1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32346" centery="31255" centerz="7" radius="1">
     <npc name="Buddel" x="-1" y="-1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33193" centery="31255" centerz="7" radius="4">
-    <monster name="Lizard Templar" x="1" y="2" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-1" y="-2" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="33215" centery="31255" centerz="7" radius="4"/>
+  <spawn centerx="33215" centery="31255" centerz="7" radius="4">
+    <monster name="Lizard Legionnaire" x="0" y="-1" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="33227" centery="31255" centerz="7" radius="4">
-    <monster name="Lizard Sentinel" x="0" y="-2" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="3" y="-3" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="33250" centery="31255" centerz="7" radius="4"/>
+  <spawn centerx="33250" centery="31255" centerz="7" radius="4">
+    <monster name="Lizard Legionnaire" x="2" y="-2" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="33056" centery="31256" centerz="7" radius="1">
     <monster name="Lizard High Guard" x="1" y="0" z="7" spawntime="60"/>
     <monster name="Lizard High Guard" x="0" y="1" z="7" spawntime="60"/>
@@ -15857,15 +15923,19 @@
     <monster name="Lizard Legionnaire" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33173" centery="31256" centerz="7" radius="4">
-    <monster name="Lizard Templar" x="-1" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="0" y="-4" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="0" y="-3" z="7" spawntime="31232"/>
+    <monster name="Lizard Legionnaire" x="-3" y="-1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33204" centery="31256" centerz="7" radius="4">
-    <monster name="Lizard Templar" x="1" y="1" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="2" y="1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33261" centery="31256" centerz="7" radius="4">
-    <monster name="Lizard Templar" x="-1" y="-2" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="1" y="-2" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="33295" centery="31256" centerz="7" radius="4"/>
+  <spawn centerx="33295" centery="31256" centerz="7" radius="4">
+    <monster name="Lizard Zaogun" x="2" y="-1" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="32110" centery="31257" centerz="7" radius="1">
     <monster name="Barbarian Bloodwalker" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
@@ -15877,7 +15947,7 @@
     <monster name="Lizard High Guard" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33283" centery="31257" centerz="7" radius="4">
-    <monster name="Lizard Templar" x="0" y="-2" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-1" y="-2" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32112" centery="31258" centerz="7" radius="1">
     <monster name="Barbarian Brutetamer" x="0" y="0" z="7" spawntime="60"/>
@@ -15889,7 +15959,8 @@
     <monster name="Lizard Legionnaire" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="33272" centery="31258" centerz="7" radius="4">
-    <monster name="Lizard Templar" x="-3" y="-3" z="7" spawntime="60"/>
+    <monster name="Lizard High Guard" x="-1" y="-3" z="7" spawntime="60"/>
+    <monster name="Lizard Legionnaire" x="3" y="-2" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32106" centery="31259" centerz="7" radius="1">
     <monster name="Barbarian Skullhunter" x="0" y="0" z="7" spawntime="60"/>
@@ -21922,6 +21993,9 @@
   </spawn>
   <spawn centerx="31969" centery="32235" centerz="7" radius="5">
     <monster name="Dragon" x="-2" y="0" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="32343" centery="32235" centerz="7" radius="1">
+    <npc name="Atrad" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="32359" centery="32235" centerz="7" radius="2">
     <npc name="Addoner" x="-2" y="0" z="7" spawntime="60"/>

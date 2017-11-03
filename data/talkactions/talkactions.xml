@@ -94,8 +94,8 @@
 	<talkaction words="/cast" event="script" value="cast.lua"/>
 	
 	<!-- Guilds -->
-	<!--<talkaction words="!createguild;/createguild" event="function" value="guildCreate"/>
-	<talkaction words="!joinguild;/joinguild" event="function" value="guildJoin"/>-->
+	<talkaction words="!createguild;/createguild" event="function" value="guildCreate"/>
+	<talkaction words="!joinguild;/joinguild" event="function" value="guildJoin"/>
 
 	<!-- Guild System -->
 	<talkaction words="/war" channel="0" event="script" value="war.lua" desc="(Guild channel command) War management."/>
