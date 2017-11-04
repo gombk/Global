@@ -9965,7 +9965,7 @@
 		<attribute key="fluidSource" value="blood" />
 	</item>
 	<item id="6078" name="ferumbras remains">
-		<attribute key="containerSize" value="10" />
+		<attribute key="containerSize" value="25" />
 		<attribute key="decayTo" value="5931" />
 		<attribute key="duration" value="10" />
 		<attribute key="corpseType" value="undead" />

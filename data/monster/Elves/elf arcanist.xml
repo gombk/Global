@@ -63,8 +63,6 @@
     <item id="12421" chance="10650" /><!-- elven astral observer -->
     <item id="2600" chance="1225" /><!-- inkwell -->
     <item id="2652" chance="7025" /><!-- green tunic -->
-    <item id="1987" chance="100000"><!-- bag -->
-        <inside>
             <item id="2198" chance="3050" /><!-- elven amulet -->
             <item id="7618" chance="3750" /><!-- health potion -->
             <item id="7589" chance="5925" /><!-- strong mana potion -->
@@ -74,8 +72,6 @@
             <item id="2747" chance="1225" /><!-- grave flower -->
             <item id="2177" chance="1950" /><!-- life crystal -->
             <item id="2189" chance="850" /><!-- wand of cosmic energy -->
-        </inside>
-    </item>
 </loot>
 
 

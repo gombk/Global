@@ -45,14 +45,10 @@
     <item id="2545" countmax="4" chance="8100" /><!-- poison arrow -->
     <item id="10552" chance="4425" /><!-- elvish talisman -->
     <item id="12420" chance="7350" /><!-- elven scouting glass -->
-    <item id="1987" chance="100000"><!-- bag -->
-        <inside>
             <item id="2031" chance="1475" /><!-- waterskin -->
             <item id="2456" chance="4425" /><!-- bow -->
             <item id="2642" chance="1475" /><!-- sandals -->
             <item id="5921" chance="1475" /><!-- heaven blossom -->
-        </inside>
-    </item>
 </loot>
 
 
